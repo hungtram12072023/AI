@@ -1,0 +1,1001 @@
+Id,Title,Year,Distributor,Budget,DomesticOpening,DomesticSales,InternationalSales,ReleaseDate,Genre,RunningTime
+0,Avatar,2009,Twentieth Century Fox,0.665730337,0.215688166,0.838318903,1,16-Dec-09,"Action, Adventure, Fantasy, Sci-Fi",2.7
+1,Avengers: Endgame,2019,Walt Disney Studios Motion Pictures,1,1,0.916416801,0.907683087,24-Apr-19,"Action, Adventure, Drama, Sci-Fi",3.016666667
+2,Avatar: The Way of Water,2022,20th Century Studios,0.273662689,0.375509915,0.730333464,0.765109407,24-Apr-19,"Action, Adventure, Drama, Sci-Fi",3.016666667
+3,Titanic,1997,Paramount Pictures,0.561797753,0.08019302,0.71988876,0.743727995,19-Dec-97,"Drama, Romance",3.233333333
+4,Star Wars: Episode VII - The Force Awakens,2015,Walt Disney Studios Motion Pictures,0.688202247,0.694360837,1,0.530585122,16-Dec-15,"Action, Adventure, Sci-Fi",2.3
+5,Avengers: Infinity War,2018,Walt Disney Studios Motion Pictures,0.273662689,0.721611184,0.724717474,0.642323868,16-Dec-15,"Action, Adventure, Sci-Fi",2.3
+6,Spider-Man: No Way Home,2021,Sony Pictures Entertainment (SPE),0.273662689,0.728444798,0.869166118,0.51799866,16-Dec-15,"Action, Adventure, Sci-Fi",2.3
+7,Jurassic World,2015,Universal Pictures,0.421348315,0.584703151,0.697590452,0.476099255,10-Jun-15,"Action, Adventure, Sci-Fi",2.066666667
+8,The Lion King,2019,Walt Disney Studios Motion Pictures,0.730337079,0.537000001,0.580399239,0.523472311,11-Jul-19,"Adventure, Drama, Family, Musical",1.966666667
+9,The Avengers,2012,Walt Disney Studios Motion Pictures,0.617977528,0.580873679,0.665509821,0.419540416,25-Apr-12,"Action, Sci-Fi",2.383333333
+10,Furious 7,2015,Universal Pictures,0.533707865,0.412155852,0.376877609,0.543531854,1-Apr-15,"Action, Crime, Thriller",2.283333333
+11,Top Gun: Maverick,2022,Paramount Pictures,0.273662689,0.354808553,0.767334053,0.363324362,1-Apr-15,"Action, Crime, Thriller",2.283333333
+12,Frozen II,2019,Walt Disney Studios Motion Pictures,0.421348315,0.364765847,0.509653924,0.456542918,20-Nov-19,"Adventure, Animation, Comedy, Drama, Family, Fantasy, Musical",1.716666667
+13,Barbie,2023,Warner Bros.,0.273662689,0.453697103,0.673081576,0.372693861,20-Nov-19,"Adventure, Animation, Comedy, Drama, Family, Fantasy, Musical",1.716666667
+14,Avengers: Age of Ultron,2015,Walt Disney Studios Motion Pictures,0.702247191,0.535600872,0.490044176,0.442375072,22-Apr-15,"Action, Adventure, Sci-Fi",2.35
+15,The Super Mario Bros. Movie,2023,Universal Pictures,0.273662689,0.409845182,0.613811804,0.367470407,22-Apr-15,"Action, Adventure, Sci-Fi",2.35
+16,Black Panther,2018,Walt Disney Studios Motion Pictures,0.273662689,0.565655173,0.747789915,0.303719552,22-Apr-15,"Action, Adventure, Sci-Fi",2.35
+17,Harry Potter and the Deathly Hallows: Part 2,2011,Warner Bros.,0.273662689,0.47376734,0.407241348,0.449342705,22-Apr-15,"Action, Adventure, Sci-Fi",2.35
+18,Star Wars: Episode VIII - The Last Jedi,2017,Walt Disney Studios Motion Pictures,0.890449438,0.616074877,0.662118494,0.33398716,13-Dec-17,"Action, Adventure, Fantasy, Sci-Fi",2.533333333
+19,Jurassic World: Fallen Kingdom,2018,Universal Pictures,0.47752809,0.414501231,0.445966271,0.417466943,6-Jun-18,"Action, Adventure, Sci-Fi",2.133333333
+20,Frozen,2013,Walt Disney Studios Motion Pictures,0.421348315,0.000681545,0.428065741,0.413183991,22-Nov-13,"Adventure, Animation, Comedy, Family, Fantasy, Musical",1.7
+21,Beauty and the Beast,2017,Walt Disney Studios Motion Pictures,0.449438202,0.489339884,0.538594545,0.356156354,16-Mar-17,"Adventure, Family, Fantasy, Musical, Romance",2.15
+22,Incredibles 2,2018,Walt Disney Studios Motion Pictures,0.273662689,0.511566026,0.64973448,0.296772766,16-Mar-17,"Adventure, Family, Fantasy, Musical, Romance",2.15
+23,The Fate of the Furious,2017,Universal Pictures,0.702247191,0.276624345,0.241291235,0.472295586,12-Apr-17,"Action, Crime, Thriller",2.266666667
+24,Iron Man 3,2013,Walt Disney Studios Motion Pictures,0.561797753,0.487642865,0.436671815,0.377165819,24-Apr-13,"Action, Adventure, Sci-Fi",2.166666667
+25,Minions,2015,Universal Pictures,0.207865169,0.324036803,0.358769427,0.385038535,9-Apr-15,"Adventure, Animation, Comedy, Crime, Family, Sci-Fi",1.516666667
+26,Captain America: Civil War,2016,Walt Disney Studios Motion Pictures,0.702247191,0.501628715,0.435679307,0.349295078,27-Apr-16,"Action, Sci-Fi",2.45
+27,Aquaman,2018,Warner Bros.,0.273662689,0.190060683,0.357764309,0.380374104,27-Apr-16,"Action, Sci-Fi",2.45
+28,The Lord of the Rings: The Return of the King,2003,New Line Cinema,0.264044944,0.203379056,0.405084439,0.359229438,17-Dec-03,"Action, Adventure, Drama, Fantasy",3.35
+29,Skyfall,2012,Sony Pictures Entertainment (SPE),0.561797753,0.247440495,0.324941338,0.391918233,25-Oct-12,"Action, Adventure, Thriller",2.383333333
+30,Spider-Man: Far from Home,2019,Sony Pictures Entertainment (SPE),0.449438202,0.259242009,0.416940146,0.346692227,28-Jun-19,"Action, Adventure, Comedy, Sci-Fi",2.15
+31,Captain Marvel,2019,Walt Disney Studios Motion Pictures,0.449438202,0.429647088,0.45569238,0.329479427,6-Mar-19,"Action, Adventure, Sci-Fi",2.05
+32,Transformers: Dark of the Moon,2011,DreamWorks,0.547752809,0.274009389,0.376219446,0.36072442,29-Jun-11,"Action, Adventure, Sci-Fi",2.566666667
+33,Jurassic Park,1993,Universal Pictures,0.176966292,0.131685387,0.434719223,0.330118602,11-Jun-93,"Action, Adventure, Sci-Fi, Thriller",2.116666667
+34,Transformers: Age of Extinction,2014,Paramount Pictures,0.58988764,0.280129337,0.262035843,0.401506322,25-Jun-14,"Action, Adventure, Sci-Fi",2.75
+35,The Dark Knight Rises,2012,Warner Bros.,0.702247191,0.450519558,0.478453782,0.296013498,19-Jul-12,"Action, Drama, Thriller",2.733333333
+36,Star Wars: Episode IX - The Rise of Skywalker,2019,Walt Disney Studios Motion Pictures,0.77247191,0.496713553,0.550040909,0.262718697,18-Dec-19,"Action, Adventure, Fantasy, Sci-Fi",2.35
+37,Joker,2019,Warner Bros.,0.154494382,0.269387551,0.358162898,0.345562789,2-Oct-19,"Crime, Drama, Thriller",2.033333333
+38,Toy Story 4,2019,Walt Disney Studios Motion Pictures,0.561797753,0.338568984,0.463387971,0.299185438,20-Jun-19,"Adventure, Animation, Comedy, Family, Fantasy",1.666666667
+39,Toy Story 3,2010,Walt Disney Studios Motion Pictures,0.561797753,0.308884216,0.443067809,0.305034364,16-Jun-10,"Adventure, Animation, Comedy, Family, Fantasy",1.716666667
+40,Pirates of the Caribbean: Dead Mans Chest,2006,Walt Disney Studios Motion Pictures,0.632022472,0.379806369,0.451940732,0.300616615,6-Jul-06,"Action, Adventure, Fantasy",2.516666667
+41,Rogue One: A Star Wars Story,2016,Walt Disney Studios Motion Pictures,0.561797753,0.434262571,0.56961835,0.245567448,14-Dec-16,"Action, Adventure, Sci-Fi",2.216666667
+42,Aladdin,2019,Walt Disney Studios Motion Pictures,0.514044944,0.256222582,0.379602387,0.326747668,22-May-19,"Adventure, Comedy, Family, Fantasy, Musical, Romance",2.133333333
+43,Pirates of the Caribbean: On Stranger Tides,2011,Walt Disney Studios Motion Pictures,0.702247191,0.252445168,0.257373251,0.376738532,18-May-11,"Action, Adventure, Fantasy",2.283333333
+44,Despicable Me 3,2017,Universal Pictures,0.224719101,0.202831087,0.282518386,0.360150319,14-Jun-17,"Adventure, Animation, Comedy, Crime, Family, Sci-Fi",1.483333333
+45,Finding Dory,2016,Walt Disney Studios Motion Pictures,0.273662689,0.378198256,0.519179217,0.253904791,14-Jun-17,"Adventure, Animation, Comedy, Crime, Family, Sci-Fi",1.483333333
+46,Star Wars: Episode I - The Phantom Menace,1999,Twentieth Century Fox,0.323033708,0.18151287,0.50663373,0.258378334,19-May-99,"Action, Adventure, Fantasy, Sci-Fi",2.266666667
+47,Zootopia,2016,Walt Disney Studios Motion Pictures,0.273662689,0.210193914,0.364345053,0.319971213,19-May-99,"Action, Adventure, Fantasy, Sci-Fi",2.266666667
+48,Alice in Wonderland,2010,Walt Disney Studios Motion Pictures,0.561797753,0.325108216,0.356789354,0.323255626,3-Mar-10,"Adventure, Family, Fantasy, Mystery",1.8
+49,Harry Potter and the Sorcerers Stone,2001,Warner Bros.,0.351123596,0.252844656,0.340450328,0.329745559,16-Nov-01,"Adventure, Family, Fantasy",2.533333333
+50,The Hobbit: An Unexpected Journey,2012,Warner Bros.,0.273662689,0.236946926,0.323521802,0.333881326,16-Nov-01,"Adventure, Family, Fantasy",2.533333333
+51,The Dark Knight,2008,Warner Bros.,0.519662921,0.443586743,0.571163288,0.220468177,16-Jul-08,"Action, Crime, Drama, Thriller",2.533333333
+52,Jurassic World Dominion,2022,Universal Pictures,0.273662689,0.406243429,0.402334022,0.292322454,16-Jul-08,"Action, Crime, Drama, Thriller",2.533333333
+53,Jumanji: Welcome to the Jungle,2017,Sony Pictures Entertainment (SPE),0.252808989,0.101282016,0.431895469,0.276269938,20-Dec-17,"Action, Adventure, Comedy, Fantasy",1.983333333
+54,Harry Potter and the Deathly Hallows: Part 1,2010,Warner Bros.,0.273662689,0.350075941,0.316415687,0.318307568,20-Dec-17,"Action, Adventure, Comedy, Fantasy",1.983333333
+55,Despicable Me 2,2013,Universal Pictures,0.213483146,0.233866719,0.392954232,0.281835409,20-Jun-13,"Adventure, Animation, Comedy, Crime, Family, Sci-Fi",1.633333333
+56,The Lion King,1994,Walt Disney Studios Motion Pictures,0.126404494,0.004443255,0.451372721,0.255193834,15-Jun-94,"Adventure, Animation, Drama, Family, Musical",1.466666667
+57,The Jungle Book,2016,Walt Disney Studios Motion Pictures,0.491573034,0.289154648,0.388615141,0.282313801,7-Apr-16,"Adventure, Drama, Family, Fantasy",1.766666667
+58,The Hobbit: The Battle of the Five Armies,2014,Warner Bros.,0.273662689,0.153240085,0.272390894,0.330637476,7-Apr-16,"Adventure, Drama, Family, Fantasy",1.766666667
+59,Pirates of the Caribbean: At Worlds End,2007,Walt Disney Studios Motion Pictures,0.842696629,0.321276949,0.330343657,0.305015454,22-May-07,"Action, Adventure, Fantasy",2.816666667
+60,The Hobbit: The Desolation of Smaug,2013,Warner Bros.,0.273662689,0.206222633,0.275859672,0.327634219,22-May-07,"Action, Adventure, Fantasy",2.816666667
+61,Doctor Strange in the Multiverse of Madness,2022,Walt Disney Studios Motion Pictures,0.273662689,0.52481972,0.439146147,0.254593488,22-May-07,"Action, Adventure, Fantasy",2.816666667
+62,The Lord of the Rings: The Two Towers,2002,New Line Cinema,0.264044944,0.173634618,0.366143207,0.282906794,18-Dec-02,"Action, Adventure, Drama, Fantasy",2.983333333
+63,Harry Potter and the Order of the Phoenix,2007,Warner Bros.,0.421348315,0.215920397,0.312153858,0.303904636,11-Jul-07,"Action, Adventure, Family, Fantasy, Mystery",2.3
+64,Finding Nemo,2003,Walt Disney Studios Motion Pictures,0.264044944,0.196720128,0.406596157,0.262239325,30-May-03,"Adventure, Animation, Comedy, Family",1.666666667
+65,Minions: The Rise of Gru,2022,Universal Pictures,0.273662689,0.299651759,0.394694267,0.266512585,30-May-03,"Adventure, Animation, Comedy, Family",1.666666667
+66,Harry Potter and the Half-Blood Prince,2009,Warner Bros.,0.702247191,0.217957032,0.322778442,0.295622928,15-Jul-09,"Action, Adventure, Family, Fantasy, Mystery",2.55
+67,Shrek 2,2004,DreamWorks Distribution,0.421348315,0.30252965,0.471062284,0.227981335,19-May-04,"Adventure, Animation, Comedy, Family, Fantasy, Romance",1.55
+68,Oppenheimer,2023,Universal Pictures,0.273662689,0.230893181,0.342933596,0.282794678,19-May-04,"Adventure, Animation, Comedy, Family, Fantasy, Romance",1.55
+69,Harry Potter and the Chamber of Secrets,2002,Warner Bros.,0.280898876,0.24742026,0.280401654,0.310180689,14-Nov-02,"Adventure, Family, Fantasy, Mystery",2.683333333
+70,Bohemian Rhapsody,2018,Twentieth Century Fox,0.146067416,0.142982283,0.231319291,0.324594969,26-Oct-18,"Biography, Drama, Music",2.233333333
+71,The Battle at Lake Changjin,2021,CMC Pictures,0.273662689,0.000296173,0.000365565,0.421890417,26-Oct-18,"Biography, Drama, Music",2.233333333
+72,The Lord of the Rings: The Fellowship of the Ring,2001,New Line Cinema,0.261235955,0.132202481,0.337491373,0.272196985,19-Dec-01,"Action, Adventure, Drama, Fantasy",2.966666667
+73,Harry Potter and the Goblet of Fire,2005,Warner Bros.,0.421348315,0.287543114,0.310111714,0.283539776,16-Nov-05,"Adventure, Family, Fantasy, Mystery",2.616666667
+74,Spider-Man 3,2007,Sony Pictures Entertainment (SPE),0.724719101,0.423159243,0.359286725,0.26114433,1-May-07,"Action, Adventure, Sci-Fi",2.316666667
+75,The Secret Life of Pets,2016,Universal Pictures,0.210674157,0.292210921,0.393294744,0.245942474,24-Jun-16,"Adventure, Animation, Comedy, Family",1.45
+76,Ice Age: Dawn of the Dinosaurs,2009,Twentieth Century Fox,0.252808989,0.116742173,0.209866161,0.322711318,29-Jun-09,"Adventure, Animation, Comedy, Family",1.566666667
+77,Spectre,2015,Sony Pictures Entertainment (SPE),0.688202247,0.197144188,0.213603798,0.318277145,26-Oct-15,"Action, Adventure, Thriller",2.466666667
+78,Spider-Man: Homecoming,2017,Sony Pictures Entertainment (SPE),0.491573034,0.327702563,0.356800062,0.255305014,5-Jul-17,"Action, Adventure, Sci-Fi",2.216666667
+79,Ice Age: Continental Drift,2012,Twentieth Century Fox,0.266853933,0.130572107,0.172230542,0.334780533,27-Jun-12,"Adventure, Animation, Comedy, Family",1.466666667
+80,Batman v Superman: Dawn of Justice,2016,Warner Bros.,0.702247191,0.464856821,0.352699389,0.254047839,23-Mar-16,"Action, Adventure, Sci-Fi",2.516666667
+81,Wolf Warrior 2,2017,The H Collective,0.084550562,0.000613309,0.002905103,0.405709926,27-Jul-17,"Action, Adventure, Drama, Thriller, War",2.05
+82,Star Wars: Episode III - Revenge of the Sith,2005,Twentieth Century Fox,0.31741573,0.303644033,0.405984748,0.228255108,18-May-05,"Action, Adventure, Fantasy, Sci-Fi",2.333333333
+83,The Hunger Games: Catching Fire,2013,Lionsgate,0.365168539,0.442642518,0.453384407,0.205913919,15-Nov-13,"Action, Adventure, Sci-Fi, Thriller",2.433333333
+84,Guardians of the Galaxy Vol. 2,2017,Walt Disney Studios Motion Pictures,0.561797753,0.410260283,0.416172544,0.221625631,25-Apr-17,"Action, Adventure, Comedy, Sci-Fi",2.266666667
+85,Black Panther: Wakanda Forever,2022,Walt Disney Studios Motion Pictures,0.273662689,0.507790929,0.484517308,0.189564058,25-Apr-17,"Action, Adventure, Comedy, Sci-Fi",2.266666667
+86,Inside Out,2015,Walt Disney Studios Motion Pictures,0.491573034,0.25325251,0.381057014,0.234711234,10-Jun-15,"Adventure, Animation, Comedy, Drama, Family, Fantasy",1.583333333
+87,Venom,2018,Sony Pictures Entertainment (SPE),0.280898876,0.224733642,0.227953578,0.300478999,3-Oct-18,"Action, Adventure, Sci-Fi",1.866666667
+88,Thor: Ragnarok,2017,Walt Disney Studios Motion Pictures,0.505617978,0.343712772,0.336362758,0.252629162,24-Oct-17,"Action, Adventure, Comedy, Fantasy, Sci-Fi",2.166666667
+89,The Twilight Saga: Breaking Dawn - Part 2,2012,Lionsgate,0.337078652,0.395020179,0.312091946,0.260123112,14-Nov-12,"Adventure, Drama, Fantasy, Romance",1.916666667
+90,Guardians of the Galaxy Vol. 3,2023,Walt Disney Studios Motion Pictures,0.273662689,0.331585116,0.383271371,0.22752561,14-Nov-12,"Adventure, Drama, Fantasy, Romance",1.916666667
+91,Inception,2010,Warner Bros.,0.449438202,0.175812654,0.312372296,0.255528311,15-Jul-10,"Action, Adventure, Sci-Fi, Thriller",2.466666667
+92,Transformers: Revenge of the Fallen,2009,DreamWorks,0.561797753,0.305129454,0.429302965,0.203037173,19-Jun-09,"Action, Adventure, Sci-Fi",2.483333333
+93,Spider-Man,2002,Sony Pictures Entertainment (SPE),0.390449438,0.321588602,0.434546039,0.195466556,3-May-02,"Action, Adventure, Sci-Fi",2.016666667
+94,Wonder Woman,2017,Warner Bros.,0.418539326,0.289126665,0.44076206,0.191728833,30-May-17,"Action, Adventure, Fantasy, Sci-Fi, War",2.35
+95,"Hi, Mom",2021,"February 12, 2021 (China)",0.418539326,0.119555477,0.877594657,0.38438895,30-May-17,"Action, Adventure, Fantasy, Sci-Fi, War",2.35
+96,Independence Day,1996,Twentieth Century Fox,0.210674157,0.140650107,0.326872655,0.239062594,3-Jul-96,"Action, Adventure, Sci-Fi",2.416666667
+97,Coco,2017,Walt Disney Studios Motion Pictures,0.273662689,0.142258387,0.224691473,0.282385528,3-Jul-96,"Action, Adventure, Sci-Fi",2.416666667
+98,Fantastic Beasts and Where to Find Them,2016,Warner Bros.,0.505617978,0.20834573,0.249863365,0.27122313,16-Nov-16,"Adventure, Family, Fantasy",2.2
+99,Shrek the Third,2007,DreamWorks,0.449438202,0.340588515,0.344542499,0.229436998,17-May-07,"Adventure, Animation, Comedy, Family, Fantasy, Romance",1.55
+100,Jumanji: The Next Level,2019,Sony Pictures Entertainment (SPE),0.351123596,0.165917259,0.341974889,0.225102869,4-Dec-19,"Action, Adventure, Comedy, Fantasy",2.05
+101,Harry Potter and the Prisoner of Azkaban,2004,Warner Bros.,0.365168539,0.262345085,0.267017975,0.256140604,2-Jun-04,"Adventure, Family, Fantasy, Mystery",2.366666667
+102,Pirates of the Caribbean: Dead Men Tell No Tales,2017,Walt Disney Studios Motion Pictures,0.646067416,0.176366862,0.184227432,0.291497768,24-May-17,"Action, Adventure, Fantasy",2.15
+103,E.T. the Extra-Terrestrial,1982,Universal Pictures,0.029494382,0.033141674,0.466701087,0.142252097,11-Jun-82,"Adventure, Family, Sci-Fi",1.916666667
+104,Mission: Impossible - Fallout,2018,Paramount Pictures,0.5,0.171475667,0.235046421,0.26724455,25-Jul-18,"Action, Adventure, Thriller",2.45
+105,Tangled,2009,Sony Pictures Entertainment (SPE),0.561797753,0.182679565,0.177344792,0.292312474,11-Nov-09,"Action, Adventure, Sci-Fi",2.633333333
+106,Indiana Jones and the Kingdom of the Crystal Skull,2008,Paramount Pictures,0.519662921,0.280407804,0.338543725,0.2214432,21-May-08,"Action, Adventure",2.033333333
+107,Spider-Man 2,2004,Sony Pictures Entertainment (SPE),0.561797753,0.246856686,0.398847968,0.194245341,30-Jun-04,"Action, Adventure, Sci-Fi",2.116666667
+108,Fast & Furious 6,2013,Universal Pictures,0.449438202,0.272671949,0.254819554,0.257192021,17-May-13,"Action, Adventure, Crime, Thriller",2.166666667
+109,Deadpool 2,2018,Twentieth Century Fox,0.308988764,0.351447434,0.346540862,0.215715803,16-May-18,"Action, Adventure, Comedy, Sci-Fi",1.983333333
+110,Deadpool,2016,Twentieth Century Fox,0.162921348,0.370845908,0.387621812,0.196291395,9-Feb-16,"Action, Comedy",1.8
+111,Star Wars: Episode IV - A New Hope,1977,Twentieth Century Fox,0.030898876,0.004352869,0.492171558,0.091537724,25-May-77,"Action, Adventure, Fantasy, Sci-Fi",2.016666667
+112,No Time to Die,2021,Metro-Goldwyn-Mayer (MGM),0.273662689,0.154642079,0.171770573,0.286774132,25-May-77,"Action, Adventure, Fantasy, Sci-Fi",2.016666667
+113,Guardians of the Galaxy,2014,Walt Disney Studios Motion Pictures,0.47752809,0.264119069,0.356284892,0.205580902,30-Jul-14,"Action, Adventure, Comedy, Sci-Fi",2.016666667
+114,The Batman,2022,Warner Bros.,0.273662689,0.37525341,0.394320998,0.187804505,30-Jul-14,"Action, Adventure, Comedy, Sci-Fi",2.016666667
+115,Thor: Love and Thunder,2022,Walt Disney Studios Motion Pictures,0.273662689,0.40369378,0.366468104,0.195311808,30-Jul-14,"Action, Adventure, Comedy, Sci-Fi",2.016666667
+116,Fast & Furious Presents: Hobbs & Shaw,2019,Universal Pictures,0.561797753,0.16812217,0.185720028,0.27438872,1-Jul-19,"Action, Adventure, Thriller",2.283333333
+117,The Da Vinci Code,2006,Sony Pictures Entertainment (SPE),0.351123596,0.215822316,0.232246088,0.25367069,17-May-06,"Mystery, Thriller",2.483333333
+118,Maleficent,2014,Walt Disney Studios Motion Pictures,0.505617978,0.194422796,0.257734722,0.242434928,28-May-14,"Adventure, Family, Fantasy, Romance",1.616666667
+119,The Amazing Spider-Man,2012,Sony Pictures Entertainment (SPE),0.646067416,0.173626666,0.279749365,0.231893207,28-Jun-12,"Action, Adventure, Sci-Fi",2.266666667
+120,The Hunger Games: Mockingjay - Part 1,2014,Lionsgate,0.351123596,0.341339993,0.359933257,0.195568801,19-Nov-14,"Action, Adventure, Sci-Fi, Thriller",2.05
+121,Shrek Forever After,2010,DreamWorks,0.463483146,0.198362448,0.254880341,0.240293586,20-May-10,"Adventure, Animation, Comedy, Family, Fantasy, Romance",1.583333333
+122,Gravity,2013,Warner Bros.,0.280898876,0.156210495,0.292627051,0.221632315,3-Oct-13,"Drama, Sci-Fi, Thriller",1.516666667
+123,Madagascar 3: Europes Most Wanted,2012,DreamWorks,0.407303371,0.168900037,0.23102403,0.248086822,6-Jun-12,"Adventure, Animation, Comedy, Family",1.583333333
+124,Suicide Squad,2016,Warner Bros.,0.491573034,0.374339486,0.347083554,0.197217639,3-Aug-16,"Action, Adventure, Fantasy, Sci-Fi",2.05
+125,X-Men: Days of Future Past,2014,Twentieth Century Fox,0.561797753,0.25432608,0.249739477,0.239479966,21-May-14,"Action, Adventure, Sci-Fi, Thriller",2.2
+126,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,Walt Disney Studios Motion Pictures,0.505617978,0.183571989,0.311436662,0.211973565,7-Dec-05,"Adventure, Family, Fantasy",2.383333333
+127,Monsters University,2013,Walt Disney Studios Motion Pictures,0.273662689,0.230820513,0.286648438,0.222151205,7-Dec-05,"Adventure, Family, Fantasy",2.383333333
+128,The Matrix Reloaded,2003,Warner Bros.,0.421348315,0.256988396,0.300616864,0.215232564,15-May-03,"Action, Sci-Fi",2.3
+129,Up,2009,Walt Disney Studios Motion Pictures,0.491573034,0.190719484,0.312817317,0.206732835,28-May-09,"Adventure, Animation, Comedy, Drama, Family",1.6
+130,Ne Zha,2019,Well Go USA Entertainment,0.273662689,0.002844336,0.003945428,0.337888155,28-May-09,"Adventure, Animation, Comedy, Drama, Family",1.6
+131,F9: The Fast Saga,2021,Universal Pictures,0.273662689,0.196136157,0.184704732,0.2586989,28-May-09,"Adventure, Animation, Comedy, Drama, Family",1.6
+132,Captain America: The Winter Soldier,2014,Walt Disney Studios Motion Pictures,0.47752809,0.266087168,0.277332175,0.21260615,26-Mar-14,"Action, Adventure, Sci-Fi, Thriller",2.266666667
+133,The Twilight Saga: Breaking Dawn - Part 1,2011,Summit Entertainment,0.308988764,0.386772491,0.300307972,0.201506603,16-Nov-11,"Adventure, Drama, Fantasy, Romance, Thriller",1.95
+134,The Twilight Saga: New Moon,2009,Summit Entertainment,0.140449438,0.399980774,0.317954803,0.193225273,18-Nov-09,"Adventure, Drama, Fantasy, Romance",2.166666667
+135,Dawn of the Planet of the Apes,2014,Twentieth Century Fox,0.47752809,0.203327851,0.222647592,0.234791978,9-Jul-14,"Action, Adventure, Drama, Sci-Fi, Thriller",2.166666667
+136,Transformers,2007,DreamWorks,0.421348315,0.19742207,0.340833851,0.182588936,28-Jun-07,"Action, Adventure, Sci-Fi",2.4
+137,The Amazing Spider-Man 2,2014,Sony Pictures Entertainment (SPE),0.273662689,0.256523347,0.216571062,0.236676216,28-Jun-07,"Action, Adventure, Sci-Fi",2.4
+138,Fast X,2023,Universal Pictures,0.273662689,0.187663382,0.155830625,0.261282713,28-Jun-07,"Action, Adventure, Sci-Fi",2.4
+139,Interstellar,2014,Paramount Pictures,0.463483146,0.133039382,0.200734066,0.240895293,5-Nov-14,"Adventure, Drama, Sci-Fi",2.816666667
+140,It,2017,Warner Bros.,0.098314607,0.34555652,0.351113744,0.174407433,6-Sep-17,Horror,2.25
+141,The Wandering Earth,2019,CMC Pictures,0.273662689,0.004719172,0.006375204,0.324538775,6-Sep-17,Horror,2.25
+142,The Twilight Saga: Eclipse,2010,Summit Entertainment,0.191011236,0.181544292,0.320853925,0.186102867,30-Jun-10,"Action, Adventure, Drama, Fantasy, Romance, Thriller",2.066666667
+143,Mission: Impossible - Ghost Protocol,2011,Paramount Pictures,0.407303371,0.035801363,0.22355754,0.226943663,14-Dec-11,"Action, Adventure, Thriller",2.2
+144,Mamma Mia!,2008,Universal Pictures,0.146067416,0.077709532,0.153918521,0.257335865,27-Jun-08,"Comedy, Musical, Romance",1.8
+145,The Hunger Games,2012,Lionsgate,0.219101124,0.4271334,0.435600669,0.13391916,8-Mar-12,"Action, Adventure, Sci-Fi, Thriller",2.366666667
+146,Spider-Man: Across the Spider-Verse,2023,Columbia Pictures,0.273662689,0.337884398,0.407095865,0.144260836,8-Mar-12,"Action, Adventure, Sci-Fi, Thriller",2.366666667
+147,Moana,2016,Walt Disney Studios Motion Pictures,0.273662689,0.158580289,0.265578175,0.20503861,8-Mar-12,"Action, Adventure, Sci-Fi, Thriller",2.366666667
+148,Detective Chinatown 3,2021,Warner Bros.,0.273662689,0.119555477,0.732662794,0.320908383,8-Mar-12,"Action, Adventure, Sci-Fi, Thriller",2.366666667
+149,Mission: Impossible - Rogue Nation,2015,Paramount Pictures,0.421348315,0.155468373,0.208231283,0.228046678,24-Jul-15,"Action, Adventure, Thriller",2.183333333
+150,Forrest Gump,1994,Paramount Pictures,0.154494382,0.068467025,0.352800894,0.162625081,6-Jul-94,"Drama, Romance",2.366666667
+151,Doctor Strange,2016,Walt Disney Studios Motion Pictures,0.463483146,0.238181844,0.248373334,0.208163389,25-Oct-16,"Action, Adventure, Fantasy, Sci-Fi",1.916666667
+152,The Sixth Sense,1999,Walt Disney Studios Motion Pictures,0.112359551,0.07471336,0.313353399,0.177368675,6-Aug-99,"Drama, Mystery, Thriller",1.783333333
+153,Man of Steel,2013,Warner Bros.,0.632022472,0.326559679,0.310726226,0.176293081,12-Jun-13,"Action, Adventure, Sci-Fi",2.383333333
+154,Ice Age: The Meltdown,2006,Twentieth Century Fox,0.224719101,0.190508779,0.208539018,0.220606655,29-Mar-06,"Adventure, Animation, Comedy, Family",1.516666667
+155,Kung Fu Panda 2,2011,DreamWorks,0.421348315,0.133448052,0.176423324,0.234017711,26-May-11,"Action, Adventure, Animation, Comedy, Drama, Family, Fantasy",1.5
+156,Justice League,2017,Warner Bros.,0.273662689,0.262778761,0.244511083,0.200563865,26-May-11,"Action, Adventure, Animation, Comedy, Drama, Family, Fantasy",1.5
+157,Big Hero 6,2014,Walt Disney Studios Motion Pictures,0.463483146,0.157416765,0.23757532,0.203574954,25-Oct-14,"Action, Adventure, Animation, Comedy, Drama, Family, Fantasy, Sci-Fi",1.7
+158,Fantastic Beasts: The Crimes of Grindelwald,2018,Warner Bros.,0.561797753,0.174070265,0.170345186,0.231612634,12-Oct-18,"Adventure, Family, Fantasy",2.233333333
+159,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Walt Disney Studios Motion Pictures,0.393258427,0.130576114,0.326066227,0.163129598,9-Jul-03,"Action, Adventure, Fantasy",2.383333333
+160,Men in Black 3,2012,Sony Pictures Entertainment (SPE),0.632022472,0.152871702,0.191126373,0.222210008,23-May-12,"Action, Adventure, Comedy, Sci-Fi",1.766666667
+161,Star Wars: Episode II - Attack of the Clones,2002,Twentieth Century Fox,0.323033708,0.224095354,0.331684925,0.160442243,16-May-02,"Action, Adventure, Fantasy, Sci-Fi",2.366666667
+162,The Hunger Games: Mockingjay - Part 2,2015,Lionsgate,0.449438202,0.287487165,0.300774275,0.173816729,18-Nov-15,"Action, Adventure, Sci-Fi, Thriller",2.283333333
+163,Thor: The Dark World,2013,Walt Disney Studios Motion Pictures,0.47752809,0.240084677,0.220316497,0.205014825,30-Oct-13,"Action, Adventure, Fantasy",1.866666667
+164,Sing,2016,Universal Pictures,0.210674157,0.098730505,0.288875133,0.170101761,2-Dec-16,"Animation, Comedy, Family, Musical",1.8
+165,Kung Fu Panda,2008,DreamWorks,0.365168539,0.168682718,0.230362222,0.19467601,5-Jun-08,"Action, Adventure, Animation, Comedy, Family, Fantasy",1.533333333
+166,The Incredibles,2004,Walt Disney Studios Motion Pictures,0.258426966,0.197324732,0.279119927,0.173097342,5-Nov-04,"Action, Adventure, Animation, Family",1.916666667
+167,The Martian,2015,Twentieth Century Fox,0.303370787,0.152075869,0.243880512,0.188071121,30-Sep-15,"Adventure, Drama, Sci-Fi",2.4
+168,Hancock,2008,Sony Pictures Entertainment (SPE),0.421348315,0.175304532,0.243360165,0.187748463,2-Jul-08,"Action, Comedy, Drama, Fantasy",1.533333333
+169,Water Gate Bridge,2022,CMC Pictures,0.273662689,0.000119589,0.000125226,0.292943175,2-Jul-08,"Action, Comedy, Drama, Fantasy",1.533333333
+170,Fast Five,2011,Universal Pictures,0.351123596,0.241375365,0.22402705,0.194670583,20-Apr-11,"Action, Crime, Thriller",2.166666667
+171,Iron Man 2,2010,Paramount Pictures,0.561797753,0.358770921,0.333560298,0.145663912,28-Apr-10,"Action, Sci-Fi",2.066666667
+172,Ratatouille,2007,Walt Disney Studios Motion Pictures,0.421348315,0.131686975,0.220405658,0.195129053,28-Jun-07,"Adventure, Animation, Comedy, Family, Fantasy",1.85
+173,Ant-Man and the Wasp,2018,Walt Disney Studios Motion Pictures,0.273662689,0.212290729,0.231298684,0.189865965,28-Jun-07,"Adventure, Animation, Comedy, Family, Fantasy",1.85
+174,How to Train Your Dragon 2,2014,Twentieth Century Fox,0.407303371,0.1384745,0.188971989,0.20787367,5-Jun-14,"Action, Adventure, Animation, Comedy, Family, Fantasy",1.7
+175,Logan,2017,Twentieth Century Fox,0.27247191,0.247572671,0.241578086,0.183729601,1-Mar-17,"Action, Drama, Sci-Fi, Thriller",2.283333333
+176,The Lost World: Jurassic Park,1997,Universal Pictures,0.20505618,0.201987549,0.244577685,0.182162808,23-May-97,"Action, Adventure, Sci-Fi",2.15
+177,Casino Royale,2006,Sony Pictures Entertainment (SPE),0.421348315,0.114341753,0.178768777,0.209989471,15-Nov-06,"Action, Adventure, Thriller",2.4
+178,The Passion of the Christ,2004,Newmarket Films,0.084269663,0.234792939,0.395855539,0.112823633,25-Feb-04,Drama,2.116666667
+179,Life of Pi,2012,Twentieth Century Fox,0.337078652,0.062869142,0.133438736,0.226342333,21-Nov-12,"Adventure, Drama, Fantasy",2.116666667
+180,Ready Player One,2018,Warner Bros.,0.491573034,0.11694846,0.147027761,0.219575504,28-Mar-18,"Action, Adventure, Sci-Fi",2.333333333
+181,Transformers: The Last Knight,2017,Paramount Pictures,0.609550562,0.125113961,0.138970783,0.222239863,21-Jun-17,"Action, Adventure, Sci-Fi",2.566666667
+182,Madagascar: Escape 2 Africa,2008,DreamWorks,0.421348315,0.176712229,0.19218342,0.198219547,30-Oct-08,"Adventure, Animation, Comedy, Family",1.483333333
+183,War of the Worlds,2005,Paramount Pictures,0.370786517,0.181674597,0.25012256,0.172829303,29-Jun-05,"Action, Adventure, Sci-Fi",1.933333333
+184,Tangled,2010,Walt Disney Studios Motion Pictures,0.730337079,0.136558394,0.21440166,0.183139463,24-Nov-10,"Adventure, Animation, Comedy, Family, Fantasy, Musical, Romance",1.666666667
+185,Quantum of Solace,2008,Sony Pictures Entertainment (SPE),0.561797753,0.189095615,0.179753621,0.196967562,31-Oct-08,"Action, Adventure, Mystery, Thriller",1.766666667
+186,Men in Black,1997,Sony Pictures Entertainment (SPE),0.252808989,0.143002825,0.267642414,0.158383201,2-Jul-97,"Action, Adventure, Comedy, Sci-Fi",1.633333333
+187,The Croods,2013,Twentieth Century Fox,0.379213483,0.12220079,0.199824889,0.187079954,15-Mar-13,"Action, Adventure, Animation, Comedy, Family, Fantasy",1.633333333
+188,The Hangover Part II,2011,Warner Bros.,0.224719101,0.240668391,0.271671365,0.155390427,25-May-11,Comedy,1.7
+189,Iron Man,2008,Paramount Pictures,0.393258427,0.276153805,0.340607444,0.124743544,30-Apr-08,"Action, Adventure, Sci-Fi",2.1
+190,I Am Legend,2007,Warner Bros.,0.421348315,0.216208559,0.27373049,0.153855247,12-Dec-07,"Action, Drama, Horror, Sci-Fi, Thriller",1.683333333
+191,"Monsters, Inc.",2001,Walt Disney Studios Motion Pictures,0.323033708,0.175229452,0.310295695,0.135173062,2-Nov-01,"Adventure, Animation, Comedy, Family, Fantasy",1.533333333
+192,Operation Red Sea,2018,Well Go USA Entertainment,0.273662689,0.00122106,0.001647923,0.270185223,2-Nov-01,"Adventure, Animation, Comedy, Family, Fantasy",1.533333333
+193,Night at the Museum,2006,Twentieth Century Fox,0.273662689,0.085221232,0.267826823,0.151330524,2-Nov-01,"Adventure, Animation, Comedy, Family, Fantasy",1.533333333
+194,Fifty Shades of Grey,2015,Universal Pictures,0.112359551,0.238498658,0.177403578,0.188677664,11-Feb-15,"Drama, Romance, Thriller",2.083333333
+195,The Little Mermaid,2023,Walt Disney Studios Motion Pictures,0.273662689,0.267639383,0.318334665,0.126921779,11-Feb-15,"Drama, Romance, Thriller",2.083333333
+196,Mission: Impossible - Dead Reckoning Part One,2023,Paramount Pictures,0.81741573,0.153139313,0.183775302,0.184897306,8-Jul-23,"Action, Adventure, Thriller",2.716666667
+197,Kong: Skull Island,2017,Warner Bros.,0.519662921,0.170884647,0.179416664,0.186393693,8-Mar-17,"Action, Adventure, Fantasy, Sci-Fi",1.966666667
+198,The Smurfs,2011,Sony Pictures Entertainment (SPE),0.308988764,0.09972036,0.15225783,0.196931607,27-Jul-11,"Adventure, Animation, Comedy, Family, Fantasy",1.716666667
+199,Cars 2,2011,Walt Disney Studios Motion Pictures,0.561797753,0.185193861,0.204398545,0.172271541,22-Jun-11,"Adventure, Animation, Comedy, Crime, Family, Mystery, Sci-Fi, Sport",1.766666667
+200,King Kong,2005,Universal Pictures,0.581460674,0.140375353,0.232826754,0.158442286,14-Dec-05,"Action, Adventure, Romance",3.116666667
+201,Puss in Boots,2011,DreamWorks,0.365168539,0.09542427,0.159353607,0.189726414,27-Oct-11,"Adventure, Animation, Comedy, Family, Fantasy, Mystery, Romance",1.5
+202,The Mermaid,2016,Sony Pictures Entertainment (SPE),0.273662689,0.002758361,0.003451281,0.257461569,27-Oct-11,"Adventure, Animation, Comedy, Family, Fantasy, Mystery, Romance",1.5
+203,Armageddon,1998,Walt Disney Studios Motion Pictures,0.393258427,0.101059802,0.215209044,0.1646641,1-Jul-98,"Action, Adventure, Sci-Fi, Thriller",2.516666667
+204,The Day After Tomorrow,2004,Twentieth Century Fox,0.351123596,0.192497046,0.199368346,0.171101915,26-May-04,"Action, Adventure, Sci-Fi, Thriller",2.066666667
+205,Ted,2012,Universal Pictures,0.140449438,0.152374456,0.233611948,0.154573413,29-Jun-12,Comedy,1.766666667
+206,American Sniper,2014,Warner Bros.,0.165168539,0.001773815,0.373837025,0.092261605,25-Dec-14,"Action, Biography, Drama, War",2.216666667
+207,Mission: Impossible II,2000,Paramount Pictures,0.351123596,0.161979463,0.229976061,0.154772334,24-May-00,"Action, Adventure, Thriller",2.05
+208,Detective Chinatown 2,2018,Warner Bros.,0.273662689,0.001971485,0.002118142,0.253544603,24-May-00,"Action, Adventure, Thriller",2.05
+209,X-Men: Apocalypse,2016,Twentieth Century Fox,0.5,0.184169135,0.165953622,0.181666801,18-May-16,"Action, Adventure, Sci-Fi",2.4
+210,Sherlock Holmes: A Game of Shadows,2011,Warner Bros.,0.273662689,0.110992476,0.199483243,0.166940663,18-May-16,"Action, Adventure, Sci-Fi",2.4
+211,Despicable Me,2010,Universal Pictures,0.193820225,0.157924265,0.268568517,0.136358256,8-Jul-10,"Adventure, Animation, Comedy, Crime, Family, Sci-Fi",1.583333333
+212,Cinderella,2015,Walt Disney Studios Motion Pictures,0.266853933,0.190071433,0.214753353,0.159555516,11-Mar-15,"Adventure, Drama, Family, Fantasy, Romance",1.75
+213,Madagascar,2005,DreamWorks Distribution,0.273662689,0.132239175,0.20668659,0.162951074,11-Mar-15,"Adventure, Drama, Family, Fantasy, Romance",1.75
+214,World War Z,2013,Paramount Pictures,0.533707865,0.185967637,0.216521715,0.157891341,19-Jun-13,"Action, Adventure, Horror, Sci-Fi",1.933333333
+215,Brave,2012,Walt Disney Studios Motion Pictures,0.519662921,0.185720546,0.253328469,0.141081227,21-Jun-12,"Action, Adventure, Animation, Comedy, Drama, Family, Fantasy, Mystery",1.55
+216,Star Wars: Episode V - The Empire Strikes Back,1980,Twentieth Century Fox,0.050561798,0.013750425,0.312550194,0.089168402,21-May-80,"Action, Adventure, Fantasy, Sci-Fi",2.066666667
+217,The Simpsons Movie,2007,Twentieth Century Fox,0.210674157,0.20731917,0.195518736,0.165200776,25-Jul-07,"Adventure, Animation, Comedy",1.45
+218,The Revenant,2015,Twentieth Century Fox,0.379213483,0.001328872,0.196055621,0.163345878,25-Dec-15,"Action, Adventure, Drama, Western",2.6
+219,The Meg,2018,Warner Bros.,0.365168539,0.12713606,0.15536314,0.17948026,8-Aug-18,"Action, Horror, Sci-Fi, Thriller",1.883333333
+220,Ralph Breaks the Internet,2018,Walt Disney Studios Motion Pictures,0.491573034,0.157477655,0.214689677,0.153488262,21-Nov-18,"Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",1.866666667
+221,Hotel Transylvania 3: Summer Vacation,2018,Sony Pictures Entertainment (SPE),0.224719101,0.123423055,0.178837164,0.168845638,28-Jun-18,"Adventure, Animation, Comedy, Family, Fantasy, Horror",1.616666667
+222,The Boss Baby,2017,Twentieth Century Fox,0.273662689,0.140567887,0.186836864,0.165052832,28-Jun-18,"Adventure, Animation, Comedy, Family, Fantasy, Horror",1.616666667
+223,Dunkirk,2017,Warner Bros.,0.280898876,0.141448797,0.202571066,0.157717141,19-Jul-17,"Action, Drama, History, Thriller, War",1.766666667
+224,The Grinch,2018,Universal Pictures,0.210674157,0.189218749,0.289735962,0.11941911,7-Nov-18,"Animation, Comedy, Family, Fantasy, Musical",1.416666667
+225,Godzilla,2014,Warner Bros.,0.449438202,0.260947824,0.214245929,0.15164946,14-May-14,"Action, Adventure, Sci-Fi, Thriller",2.05
+226,How to Train Your Dragon: The Hidden World,2019,Universal Pictures,0.362359551,0.154074301,0.171828756,0.170043369,3-Jan-19,"Action, Adventure, Animation, Comedy, Drama, Family, Fantasy",1.733333333
+227,Sherlock Holmes,2009,Warner Bros.,0.252808989,0.17446558,0.223163349,0.147300585,1-Jan-09,"Action, Adventure, Mystery",2.133333333
+228,Meet the Fockers,2004,Universal Pictures,0.224719101,0.129148815,0.298145001,0.113817421,22-Dec-04,"Comedy, Romance",1.916666667
+229,WALL·E,2008,Walt Disney Studios Motion Pictures,0.505617978,0.176658849,0.238942233,0.139118962,26-Jun-08,"Adventure, Animation, Family, Sci-Fi",1.633333333
+230,Kung Fu Panda 3,2016,Twentieth Century Fox,0.407303371,0.115598732,0.153234128,0.17659339,28-Jan-16,"Action, Adventure, Animation, Comedy, Family, Fantasy",1.583333333
+231,Terminator 2: Judgment Day,1991,TriStar Pictures,0.286516854,0.088950353,0.219802986,0.145947617,3-Jul-91,"Action, Sci-Fi",2.283333333
+232,Ant-Man,2015,Walt Disney Studios Motion Pictures,0.365168539,0.160243969,0.192387563,0.158574833,10-Jul-15,"Action, Comedy, Sci-Fi",1.95
+233,Venom: Let There Be Carnage,2021,Sony Pictures Entertainment (SPE),0.273662689,0.252112648,0.227990796,0.137159396,10-Jul-15,"Action, Comedy, Sci-Fi",1.95
+234,Ghost,1990,Paramount Pictures,0.061797753,0.034138974,0.232347692,0.134708607,13-Jul-90,"Drama, Fantasy, Romance, Thriller",2.116666667
+235,Aladdin,1992,Walt Disney Studios Motion Pictures,0.078651685,0.000550702,0.232047598,0.134066914,13-Nov-92,"Adventure, Animation, Comedy, Family, Fantasy, Musical, Romance",1.5
+236,Gladiator,2000,DreamWorks Distribution,0.289325843,0.097500851,0.200398203,0.147514235,4-May-00,"Action, Adventure, Drama",2.583333333
+237,Rio 2,2014,Twentieth Century Fox,0.289325843,0.110126621,0.140433159,0.171730355,20-Mar-14,"Adventure, Animation, Comedy, Family, Music, Musical",1.683333333
+238,Troy,2004,Warner Bros.,0.491573034,0.131233387,0.14239739,0.170228784,12-May-04,Drama,2.716666667
+239,Toy Story 2,1999,Walt Disney Studios Motion Pictures,0.252808989,0.000840522,0.262476881,0.117617507,19-Nov-99,"Adventure, Animation, Comedy, Family, Fantasy",1.533333333
+240,How to Train Your Dragon,2010,DreamWorks,0.463483146,0.122460043,0.232294231,0.129670454,18-Mar-10,"Action, Adventure, Animation, Comedy, Family, Fantasy",1.633333333
+241,Twister,1996,Warner Bros.,0.258426966,0.1149753,0.258183376,0.118191184,10-May-96,"Action, Adventure, Thriller",1.883333333
+242,Oz the Great and Powerful,2013,Walt Disney Studios Motion Pictures,0.603932584,0.221526543,0.250796732,0.120833242,6-Mar-13,"Adventure, Family, Fantasy",2.166666667
+243,Clash of the Titans,2010,Warner Bros.,0.351123596,0.171471665,0.174251596,0.154314948,31-Mar-10,"Action, Adventure, Fantasy",1.766666667
+244,Maleficent: Mistress of Evil,2019,Walt Disney Studios Motion Pictures,0.519662921,0.103464465,0.121633607,0.176667404,16-Oct-19,"Adventure, Family, Fantasy, Romance",1.983333333
+245,War for the Planet of the Apes,2017,Twentieth Century Fox,0.421348315,0.157548487,0.156812304,0.160786585,11-Jul-17,"Action, Adventure, Drama, Sci-Fi, Thriller",2.333333333
+246,Shrek,2001,DreamWorks Distribution,0.168539326,0.118582975,0.286296387,0.103006765,16-May-01,"Adventure, Animation, Comedy, Family, Fantasy, Romance",1.5
+247,Mr. & Mrs. Smith,2005,Twentieth Century Fox,0.308988764,0.140971051,0.198936473,0.140731151,8-Jun-05,"Action, Comedy, Crime, Thriller",2
+248,Elemental,2023,Walt Disney Studios Motion Pictures,0.273662689,0.082893265,0.164850799,0.155431798,8-Jun-05,"Action, Comedy, Crime, Thriller",2
+249,Angels & Demons,2009,Sony Pictures Entertainment (SPE),0.421348315,0.12938176,0.142394817,0.164862074,13-May-09,"Action, Mystery, Thriller",2.3
+250,Teenage Mutant Ninja Turtles,2014,Paramount Pictures,0.351123596,0.183624613,0.204134157,0.137387022,7-Aug-14,"Action, Adventure, Comedy, Sci-Fi",1.683333333
+251,Bruce Almighty,2003,Universal Pictures,0.22752809,0.190284162,0.259249551,0.11305372,23-May-03,"Comedy, Fantasy",1.683333333
+252,The Kings Speech,2010,The Weinstein Company,0.042134831,0.000995338,0.148183033,0.16145613,26-Nov-10,"Biography, Drama, History",1.966666667
+253,Rio,2011,Twentieth Century Fox,0.252808989,0.109841259,0.153331484,0.159106593,4-Apr-11,"Adventure, Animation, Comedy, Family, Music, Musical",1.6
+254,Saving Private Ryan,1998,DreamWorks Distribution,0.196629213,0.085619768,0.231726654,0.124059826,24-Jul-98,"Drama, War",2.816666667
+255,Rise of the Planet of the Apes,2011,Twentieth Century Fox,0.261235955,0.153469302,0.188712836,0.142643403,3-Aug-11,"Action, Drama, Sci-Fi, Thriller",1.75
+256,Puss in Boots: The Last Wish,2022,Universal Pictures,0.273662689,0.034805356,0.198081379,0.138186884,3-Aug-11,"Action, Drama, Sci-Fi, Thriller",1.75
+257,Home Alone,1990,Twentieth Century Fox,0.050561798,0.047833322,0.305084624,0.089279788,16-Nov-90,"Comedy, Family",1.716666667
+258,Jaws,1975,Universal Pictures,0.019662921,0.019773778,0.283836647,0.098505747,20-Jun-75,"Adventure, Mystery, Thriller",2.066666667
+259,Ant-Man and the Wasp: Quantumania,2023,Walt Disney Studios Motion Pictures,0.273662689,0.29713019,0.229009886,0.122313856,20-Jun-75,"Adventure, Mystery, Thriller",2.066666667
+260,Hotel Transylvania 2,2015,Sony Pictures Entertainment (SPE),0.224719101,0.135710684,0.181175354,0.142851919,21-Sep-15,"Adventure, Animation, Comedy, Family, Fantasy, Horror",1.483333333
+261,Star Wars: Episode VI - Return of the Jedi,1983,Twentieth Century Fox,0.091292135,0.064459957,0.337972529,0.057054173,25-May-83,"Action, Adventure, Fantasy, Sci-Fi",2.183333333
+262,Charlie and the Chocolate Factory,2005,Warner Bros.,0.421348315,0.157311927,0.220419988,0.125560743,14-Jul-05,"Adventure, Comedy, Family, Fantasy, Musical",1.916666667
+263,Indiana Jones and the Last Crusade,1989,Paramount Pictures,0.134831461,0.082200469,0.210504706,0.129530991,24-May-89,"Action, Adventure",2.116666667
+264,San Andreas,2015,Warner Bros.,0.308988764,0.152858804,0.165684948,0.149086112,22-May-15,"Action, Adventure, Thriller",1.9
+265,It Chapter Two,2019,Warner Bros.,0.221910112,0.25499391,0.225932593,0.122282867,4-Sep-19,"Drama, Fantasy, Horror",2.816666667
+266,La La Land,2016,Lionsgate,0.084269663,0.002467284,0.161319416,0.150048107,8-Dec-16,"Comedy, Drama, Music, Musical, Romance",2.133333333
+267,Wreck-It Ralph,2012,Walt Disney Studios Motion Pictures,0.463483146,0.137319102,0.202231801,0.131775571,1-Nov-12,"Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",1.683333333
+268,Godzilla vs. Kong,2021,Warner Bros.,0.273662689,0.088559625,0.107740113,0.172645638,1-Nov-12,"Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",1.683333333
+269,The Hangover,2009,Warner Bros.,0.098314607,0.125951915,0.29609366,0.089777758,5-Jun-09,Comedy,1.666666667
+270,Lucy,2014,Universal Pictures,0.112359551,0.122927738,0.135228684,0.160111048,25-Jul-14,"Action, Sci-Fi, Thriller",1.483333333
+271,The Lego Movie,2014,Warner Bros.,0.168539326,0.193355859,0.275409977,0.098340676,6-Feb-14,"Action, Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",1.666666667
+272,Bumblebee,2018,Paramount Pictures,0.379213483,0.06063606,0.135796646,0.159362425,19-Dec-18,"Action, Adventure, Sci-Fi",1.9
+273,Star Trek Into Darkness,2013,Paramount Pictures,0.533707865,0.196478887,0.244248839,0.111568075,8-May-13,"Action, Adventure, Sci-Fi",2.2
+274,The Matrix,1999,Warner Bros.,0.176966292,0.077813395,0.183712894,0.138016346,31-Mar-99,"Action, Sci-Fi",2.266666667
+275,Pretty Woman,1990,Walt Disney Studios Motion Pictures,0.039325843,0.031588118,0.190470228,0.133271958,23-Mar-90,"Comedy, Romance",1.983333333
+276,Cars,2006,Walt Disney Studios Motion Pictures,0.337078652,0.168347753,0.260588049,0.10189875,8-Jun-06,"Adventure, Animation, Comedy, Family, Sport",1.95
+277,The Eight Hundred,2020,CMC Pictures,0.273662689,0.000330877,0.000397961,0.215596059,8-Jun-06,"Adventure, Animation, Comedy, Family, Sport",1.95
+278,X-Men: The Last Stand,2006,Twentieth Century Fox,0.58988764,0.287724299,0.250210221,0.105716381,24-May-06,"Action, Adventure, Sci-Fi",1.733333333
+279,Moon Man,2022,"September 1, 2022 (New Zealand)",0.58988764,0.119555477,0.491359265,0.215216752,24-May-06,"Action, Adventure, Sci-Fi",1.733333333
+280,National Treasure: Book of Secrets,2007,Walt Disney Studios Motion Pictures,0.273662689,0.125404341,0.234838247,0.111891458,24-May-06,"Action, Adventure, Sci-Fi",1.733333333
+281,Mission: Impossible,1996,Paramount Pictures,0.224719101,0.127233046,0.19321998,0.129397501,22-May-96,"Action, Adventure, Thriller",1.833333333
+282,Mission: Impossible III,2006,Warner Bros.,0.18258427,0.198494321,0.224871993,0.114779067,7-Mar-07,"Action, Drama",1.95
+283,The Last Samurai,2003,Warner Bros.,0.393258427,0.067965091,0.118641769,0.160627781,5-Dec-03,"Action, Drama",2.566666667
+284,Demon Slayer the Movie: Mugen Train,2020,FUNimation Entertainment,0.273662689,0.05946262,0.052852572,0.188781342,5-Dec-03,"Action, Drama",2.566666667
+285,Dying to Survive,2018,"July 5, 2018 (China)",0.273662689,0.119555477,7.21E-06,0.210979628,5-Dec-03,"Action, Drama",2.566666667
+286,Oceans Eleven,2001,Warner Bros.,0.238764045,0.106710223,0.19581995,0.124995068,7-Dec-01,"Crime, Thriller",1.933333333
+287,"My People, My Country",2019,CMC Pictures,0.273662689,0.002452994,0.002516044,0.209357765,7-Dec-01,"Crime, Thriller",1.933333333
+288,Pokémon: Detective Pikachu,2019,Warner Bros.,0.421348315,0.152234549,0.153923756,0.14289937,3-May-19,"Action, Adventure, Comedy, Family, Mystery, Sci-Fi",1.733333333
+289,Thor,2011,Paramount Pictures,0.421348315,0.184039698,0.193272045,0.125460816,21-Apr-11,"Action, Fantasy",1.916666667
+290,Pearl Harbor,2001,Walt Disney Studios Motion Pictures,0.393258427,0.165433854,0.211968145,0.117222456,25-May-01,"Action, Drama, History, Romance, War",3.05
+291,Tarzan,1999,Walt Disney Studios Motion Pictures,0.365168539,0.095828983,0.182661171,0.129577753,16-Jun-99,"Adventure, Animation, Comedy, Drama, Family, Music",1.466666667
+292,Men in Black II,2002,Sony Pictures Entertainment (SPE),0.393258427,0.14602789,0.206835808,0.117559896,3-Jul-02,"Action, Adventure, Comedy, Mystery, Sci-Fi",1.466666667
+293,The Bourne Ultimatum,2007,Universal Pictures,0.308988764,0.194009461,0.242852828,0.101300233,3-Aug-07,"Action, Mystery, Thriller",1.916666667
+294,The Mummy Returns,2001,Universal Pictures,0.275280899,0.190804177,0.215680509,0.112818743,4-May-01,"Action, Adventure, Fantasy, Thriller",2.166666667
+295,Alvin and the Chipmunks: The Squeakquel,2009,Twentieth Century Fox,0.210674157,0.136861835,0.23446511,0.104525147,21-Dec-09,"Adventure, Animation, Comedy, Drama, Family, Fantasy, Music, Musical",1.466666667
+296,Les Misérables,2012,Universal Pictures,0.171348315,0.076394815,0.158872394,0.137241844,19-Dec-12,"Drama, Musical, Romance",2.633333333
+297,The Exorcist,1973,Warner Bros.,0.273662689,0.030802402,0.248761654,0.063604835,19-Dec-12,"Drama, Musical, Romance",2.633333333
+298,Mrs. Doubtfire,1993,Twentieth Century Fox,0.070224719,0.057317241,0.234017383,0.103854372,24-Nov-93,"Comedy, Drama",2.083333333
+299,Terminator Genisys,2015,Paramount Pictures,0.435393258,0.075657661,0.095830657,0.164061325,25-Jun-15,"Action, Adventure, Sci-Fi, Thriller",2.1
+300,Warcraft,2016,Universal Pictures,0.449438202,0.067670385,0.050568165,0.183159451,25-May-16,"Action, Adventure, Fantasy",2.05
+301,Transformers: Rise of the Beasts,2023,Paramount Pictures,0.273662689,0.170940629,0.167687335,0.131822333,25-May-16,"Action, Adventure, Fantasy",2.05
+302,A Star Is Born,2018,Warner Bros.,0.101123596,0.120151912,0.229894103,0.103297458,3-Oct-18,"Drama, Music, Romance",2.266666667
+303,The Greatest Showman,2017,Twentieth Century Fox,0.235955056,0.024658283,0.186129182,0.12223253,15-Dec-17,"Biography, Drama, Musical",1.75
+304,Terminator 3: Rise of the Machines,2003,Warner Bros.,0.561797753,0.123325649,0.160539315,0.132336716,2-Jul-03,"Action, Sci-Fi",1.816666667
+305,Shang-Chi and the Legend of the Ten Rings,2021,Walt Disney Studios Motion Pictures,0.273662689,0.211104788,0.239727071,0.097124862,2-Jul-03,"Action, Sci-Fi",1.816666667
+306,Die Another Day,2002,Metro-Goldwyn-Mayer (MGM),0.398876404,0.131811991,0.171825162,0.126738816,20-Nov-02,"Action, Adventure, Thriller",2.216666667
+307,The Secret Life of Pets 2,2019,Universal Pictures,0.224719101,0.130637691,0.169617596,0.127279026,24-May-19,"Adventure, Animation, Comedy, Family",1.433333333
+308,Cast Away,2000,Twentieth Century Fox,0.252808989,0.080879844,0.249430516,0.091653697,22-Dec-00,"Adventure, Drama, Romance",2.383333333
+309,Rampage,2018,Warner Bros.,0.337078652,0.100116468,0.107859835,0.152912036,11-Apr-18,"Action, Adventure, Sci-Fi",1.783333333
+310,The Matrix Revolutions,2003,Warner Bros.,0.421348315,0.135741016,0.148734458,0.134689026,5-Nov-03,"Action, Sci-Fi",2.15
+311,The Intouchables,2011,The Weinstein Company,0.273662689,0.000289842,0.010888472,0.194712524,5-Nov-03,"Action, Sci-Fi",2.15
+312,John Wick: Chapter 4,2023,Lionsgate,0.273662689,0.206706379,0.199785794,0.111948487,5-Nov-03,"Action, Sci-Fi",2.15
+313,Bad Boys for Life,2020,Sony Pictures Entertainment (SPE),0.252808989,0.175025143,0.220255753,0.102970123,15-Jan-20,"Action, Comedy, Crime, Thriller",2.066666667
+314,Django Unchained,2012,The Weinstein Company,0.280898876,0.084350664,0.173814455,0.12311006,25-Dec-12,"Drama, Western",2.75
+315,Beauty and the Beast,1991,Walt Disney Studios Motion Pictures,0.070224719,0.000454044,0.233774368,0.086997965,15-Nov-91,"Animation, Family, Fantasy, Musical, Romance",1.4
+316,Dances with Wolves,1990,Orion Pictures,0.061797753,0.00167525,0.196665183,0.112229017,9-Nov-90,"Adventure, Drama, Western",3.016666667
+317,"My People, My Homeland",2020,"October 1, 2020 (China)",0.061797753,0.119555477,0.450953192,0.197518778,9-Nov-90,"Adventure, Drama, Western",3.016666667
+318,The Chronicles of Narnia: Prince Caspian,2008,Walt Disney Studios Motion Pictures,0.632022472,0.154109472,0.151198037,0.130019223,15-May-08,"Action, Adventure, Family, Fantasy",2.5
+319,Sex and the City,2008,Warner Bros.,0.18258427,0.159719986,0.162969376,0.124442462,28-May-08,"Comedy, Drama, Romance",2.416666667
+320,The Captain,2019,Well Go USA Entertainment,0.273662689,0.000909424,0.000754351,0.194799389,28-May-08,"Comedy, Drama, Romance",2.416666667
+321,The Mummy,1999,Universal Pictures,0.224719101,0.121444448,0.165892767,0.121837653,7-May-99,"Action, Adventure, Fantasy",2.066666667
+322,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,Twentieth Century Fox,0.435393258,0.067219435,0.111445671,0.145570045,2-Dec-10,"Adventure, Family, Fantasy",1.883333333
+323,Jason Bourne,2016,Universal Pictures,0.337078652,0.165815952,0.173418342,0.118331706,27-Jul-16,"Action, Thriller",2.05
+324,The Wolverine,2013,Twentieth Century Fox,0.337078652,0.148730104,0.141520442,0.131996005,24-Jul-13,"Action, Sci-Fi",2.1
+325,Kingsman: The Secret Service,2014,Twentieth Century Fox,0.22752809,0.101385633,0.136934874,0.133781582,30-Jan-15,"Action, Adventure, Comedy, Thriller",2.15
+326,Night at the Museum: Battle of the Smithsonian,2009,Twentieth Century Fox,0.421348315,0.15169703,0.189229069,0.110294212,20-May-09,"Adventure, Comedy, Family, Fantasy",1.75
+327,Batman,1989,Warner Bros.,0.098314607,0.11338013,0.268409715,0.074894164,23-Jun-89,"Action, Adventure",2.1
+328,The Bodyguard,1992,Warner Bros.,0.273662689,0.046516648,0.130299318,0.135142442,23-Jun-89,"Action, Adventure",2.1
+329,Pacific Rim,2013,Warner Bros.,0.533707865,0.104407052,0.108686892,0.144588384,11-Jul-13,"Action, Adventure, Sci-Fi",2.183333333
+330,Kingsman: The Golden Circle,2017,Twentieth Century Fox,0.292134831,0.109272949,0.10701279,0.145274769,20-Sep-17,"Action, Adventure, Comedy, Crime, Thriller",2.35
+331,The Mummy,2017,Universal Pictures,0.351123596,0.08873437,0.085652963,0.153849014,6-Jun-17,"Action, Adventure, Fantasy, Horror, Thriller",1.85
+332,Ice Age: Collision Course,2016,Twentieth Century Fox,0.29494382,0.059849246,0.068394995,0.16118517,30-Jun-16,"Adventure, Animation, Comedy, Family, Sci-Fi",1.566666667
+333,Twilight,2008,Summit Entertainment,0.103932584,0.195000878,0.207078355,0.100289693,20-Nov-08,"Drama, Fantasy, Romance",2.033333333
+334,Sing 2,2021,Universal Pictures,0.273662689,0.062518319,0.173799034,0.114852909,20-Nov-08,"Drama, Fantasy, Romance",2.033333333
+335,Signs,2002,Walt Disney Studios Motion Pictures,0.202247191,0.168340951,0.243381902,0.084303297,2-Aug-02,"Drama, Mystery, Sci-Fi, Thriller",1.766666667
+336,X2,2003,Twentieth Century Fox,0.308988764,0.23958313,0.229484747,0.090139473,30-Apr-03,"Action, Sci-Fi, Thriller",2.233333333
+337,Fantastic Beasts: The Secrets of Dumbledore,2022,Warner Bros.,0.273662689,0.118032721,0.102332347,0.145570388,30-Apr-03,"Action, Sci-Fi, Thriller",2.233333333
+338,Uncharted,2022,Sony Pictures Entertainment (SPE),0.273662689,0.123238044,0.15870056,0.120876468,30-Apr-03,"Action, Sci-Fi, Thriller",2.233333333
+339,The Wolf of Wall Street,2013,Paramount Pictures,0.280898876,0.051416428,0.124805603,0.135599559,25-Dec-13,"Biography, Comedy, Crime, Drama",3
+340,Sonic the Hedgehog 2,2022,Paramount Pictures,0.273662689,0.201910238,0.203779867,0.100327417,25-Dec-13,"Biography, Comedy, Crime, Drama",3
+341,Alita: Battle Angel,2019,Twentieth Century Fox,0.47752809,0.079877945,0.091642652,0.149237627,5-Feb-19,"Action, Adventure, Sci-Fi, Thriller",2.033333333
+342,The Mummy: Tomb of the Dragon Emperor,2008,Universal Pictures,0.407303371,0.11329059,0.109422344,0.140734278,30-Jul-08,"Action, Adventure, Fantasy, Horror",1.866666667
+343,Prometheus,2012,Twentieth Century Fox,0.365168539,0.14295143,0.135029556,0.129473653,30-May-12,"Adventure, Mystery, Sci-Fi",2.066666667
+344,Gone with the Wind,1939,Metro-Goldwyn-Mayer (MGM),0.365168539,0.119555477,0.214465992,0.094225612,30-May-12,"Adventure, Mystery, Sci-Fi",2.066666667
+345,Mamma Mia! Here We Go Again,2018,Universal Pictures,0.210674157,0.097873736,0.128792356,0.131696032,18-Jul-18,"Comedy, Musical, Romance",1.9
+346,Eternals,2021,Walt Disney Studios Motion Pictures,0.273662689,0.199647782,0.176018878,0.110917184,18-Jul-18,"Comedy, Musical, Romance",1.9
+347,Dune,2021,Warner Bros.,0.273662689,0.114840242,0.115653036,0.13734026,18-Jul-18,"Comedy, Musical, Romance",1.9
+348,TRON: Legacy,2010,Walt Disney Studios Motion Pictures,0.47752809,0.123283004,0.183697771,0.106618076,16-Dec-10,"Action, Adventure, Sci-Fi",2.083333333
+349,Mission: Impossible III,2006,Paramount Pictures,0.421348315,0.13369159,0.143092993,0.123662206,3-May-06,"Action, Adventure, Thriller",2.1
+350,Snow White and the Huntsman,2012,Universal Pictures,0.47752809,0.157421836,0.165836069,0.112818429,30-May-12,"Action, Adventure, Drama, Fantasy",2.116666667
+351,Grease,1978,Paramount Pictures,0.016853933,0.02503876,0.202923848,0.096423431,16-Jun-78,"Comedy, Musical, Romance",1.833333333
+352,Toy Story,1995,Walt Disney Studios Motion Pictures,0.273662689,0.081600091,0.23832036,0.080061799,16-Jun-78,"Comedy, Musical, Romance",1.833333333
+353,Black Adam,2022,Warner Bros.,0.273662689,0.187626736,0.179522678,0.105261466,16-Jun-78,"Comedy, Musical, Romance",1.833333333
+354,Solo: A Star Wars Story,2018,Walt Disney Studios Motion Pictures,0.77247191,0.236395803,0.228222625,0.083777696,23-May-18,"Action, Adventure, Sci-Fi",2.25
+355,Superman Returns,2006,Warner Bros.,0.758426966,0.14710974,0.213610826,0.089315593,28-Jun-06,"Action, Adventure, Sci-Fi",2.566666667
+356,Meg 2: The Trench,2023,Warner Bros.,0.273662689,0.084014209,0.087431619,0.144448098,28-Jun-06,"Action, Adventure, Sci-Fi",2.566666667
+357,Robin Hood: Prince of Thieves,1991,Warner Bros.,0.134831461,0.071757281,0.176684725,0.105214704,14-Jun-91,"Action, Adventure, Drama, Romance",2.383333333
+358,Raiders of the Lost Ark,1981,Paramount Pictures,0.050561798,0.023258118,0.264940727,0.066292745,12-Jun-81,"Action, Adventure",1.916666667
+359,Independence Day: Resurgence,2016,Twentieth Century Fox,0.463483146,0.114920805,0.110118977,0.133990995,22-Jun-16,"Action, Adventure, Sci-Fi",2
+360,Live Free or Die Hard,2007,Twentieth Century Fox,0.308988764,0.093442052,0.143626378,0.118601104,26-Jun-07,"Action, Thriller",2.133333333
+361,Monster Hunt,2015,FilmRise,0.273662689,5.90E-05,3.50E-05,0.180978989,26-Jun-07,"Action, Thriller",2.133333333
+362,Godzilla: King of the Monsters,2019,Warner Bros.,0.47752809,0.133784053,0.117972237,0.129110132,29-May-19,"Action, Adventure, Fantasy, Sci-Fi",2.2
+363,Home,2015,Twentieth Century Fox,0.379213483,0.145913025,0.189393258,0.097566341,19-Mar-15,"Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",1.566666667
+364,Star Trek,2009,Paramount Pictures,0.421348315,0.210588431,0.275157909,0.059832294,6-May-09,"Action, Adventure, Sci-Fi",2.116666667
+365,Star Wars: Episode VII - The Force Awakens,2019,Universal Pictures,0.266853933,0.001613531,0.169994732,0.105379226,25-Dec-19,"Action, Drama, War",1.983333333
+366,Happy Feet,2006,Warner Bros.,0.280898876,0.116302679,0.211389241,0.087134511,17-Nov-06,"Adventure, Animation, Comedy, Family, Music, Musical, Romance",1.8
+367,Spider-Man: Into the Spider-Verse,2018,Sony Pictures Entertainment (SPE),0.252808989,0.099025175,0.203105565,0.090745309,12-Dec-18,"Action, Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",1.95
+368,Cars 3,2017,Walt Disney Studios Motion Pictures,0.273662689,0.150340028,0.163240399,0.108034243,12-Dec-18,"Action, Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",1.95
+369,Back to the Future,1985,Universal Pictures,0.053370787,0.031229435,0.227228937,0.079729364,3-Jul-85,"Adventure, Comedy, Sci-Fi",1.933333333
+370,Ice Age,2002,Twentieth Century Fox,0.165730337,0.129684984,0.188314849,0.096736611,14-Mar-02,"Adventure, Animation, Comedy, Family",1.35
+371,Indiana Jones and the Dial of Destiny,2023,Walt Disney Studios Motion Pictures,0.273662689,0.169043865,0.186278963,0.09745717,14-Mar-02,"Adventure, Animation, Comedy, Family",1.35
+372,Your Name.,2016,FUNimation Entertainment,0.273662689,0.005078983,0.005356516,0.176396395,14-Mar-02,"Adventure, Animation, Comedy, Family",1.35
+373,Fifty Shades Darker,2017,Universal Pictures,0.154494382,0.130510477,0.122329317,0.124838226,8-Feb-17,"Drama, Romance, Thriller",1.966666667
+374,Monsters vs. Aliens,2009,DreamWorks,0.491573034,0.166112019,0.211764199,0.085648671,19-Mar-09,"Action, Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",1.566666667
+375,Mad Max: Fury Road,2015,Warner Bros.,0.421348315,0.127208678,0.164712834,0.1055888,7-May-15,"Action, Adventure, Sci-Fi, Thriller",2
+376,Black Widow,2021,Walt Disney Studios Motion Pictures,0.273662689,0.225043223,0.196070312,0.091700459,7-May-15,"Action, Adventure, Sci-Fi, Thriller",2
+377,Godzilla,1998,Sony Pictures Entertainment (SPE),0.365168539,0.123342733,0.145531965,0.113491594,20-May-98,"Action, Sci-Fi, Thriller",2.316666667
+378,True Lies,1994,Twentieth Century Fox,0.323033708,0.072441005,0.156174133,0.108768623,15-Jul-94,"Action, Comedy, Thriller",2.35
+379,Slumdog Millionaire,2008,Fox Searchlight,0.042134831,0.001008129,0.150876083,0.110868528,12-Nov-08,"Crime, Drama, Romance",2
+380,Once Upon a Time in Hollywood,2019,Sony Pictures Entertainment (SPE),0.252808989,0.115038621,0.152138865,0.109944628,25-Jul-19,"Comedy, Drama",2.683333333
+381,Taken 2,2012,Twentieth Century Fox,0.126404494,0.138652165,0.149311335,0.110497963,27-Sep-12,"Action, Crime, Thriller",1.533333333
+382,G.I. Joe: Retaliation,2013,Paramount Pictures,0.365168539,0.113413923,0.130808158,0.118409864,27-Mar-13,"Action, Adventure, Sci-Fi, Thriller",1.833333333
+383,Shark Tale,2004,DreamWorks Distribution,0.210674157,0.133303292,0.171739506,0.099940862,23-Sep-04,"Adventure, Animation, Comedy, Family, Thriller",1.5
+384,What Women Want,2000,Paramount Pictures,0.196629213,0.094128061,0.195173566,0.089455879,15-Dec-00,"Comedy, Fantasy, Romance",2.116666667
+385,The Adventures of Tintin,2011,Paramount Pictures,0.273662689,0.027220903,0.082838647,0.138603828,15-Dec-00,"Comedy, Fantasy, Romance",2.116666667
+386,Batman Begins,2005,Warner Bros.,0.421348315,0.136497876,0.220851737,0.078003616,15-Jun-05,"Action, Crime, Drama",2.333333333
+387,Penguins of Madagascar,2014,Twentieth Century Fox,0.370786517,0.0712584,0.08952097,0.135453274,14-Nov-14,"Action, Adventure, Animation, Comedy, Crime, Family, Sci-Fi",1.533333333
+388,X-Men Origins: Wolverine,2009,Twentieth Century Fox,0.421348315,0.238180982,0.192046986,0.090334869,29-Apr-09,"Action, Sci-Fi",1.783333333
+389,The Golden Compass,2007,New Line Cinema,0.505617978,0.073155705,0.074848463,0.141280965,5-Dec-07,"Adventure, Family, Fantasy",1.883333333
+390,Fifty Shades Freed,2018,Universal Pictures,0.154494382,0.107976966,0.107197405,0.126995203,7-Feb-18,"Drama, Romance, Thriller",1.75
+391,Hitch,2005,Sony Pictures Entertainment (SPE),0.196629213,0.12080762,0.191633174,0.089829347,11-Feb-05,"Comedy, Romance",1.966666667
+392,Terminator Salvation,2009,Warner Bros.,0.561797753,0.119172785,0.133796865,0.11504902,20-May-09,"Action, Adventure, Sci-Fi",1.916666667
+393,Captain America: The First Avenger,2011,Paramount Pictures,0.393258427,0.182178074,0.18860001,0.090678834,22-Jul-11,"Action, Adventure, Sci-Fi",2.066666667
+394,Edge of Tomorrow,2014,Warner Bros.,0.5,0.080534969,0.106982275,0.126414297,28-May-14,"Action, Adventure, Sci-Fi",1.883333333
+395,Theres Something About Mary,1998,Twentieth Century Fox,0.064606742,0.038476804,0.18841867,0.090437883,15-Jul-98,"Comedy, Romance",1.983333333
+396,Gone Girl,2014,Twentieth Century Fox,0.171348315,0.105044897,0.179111727,0.094255154,2-Oct-14,"Drama, Mystery, Thriller",2.483333333
+397,The Fugitive,1993,Warner Bros.,0.273662689,0.066529982,0.196309571,0.086509867,2-Oct-14,"Drama, Mystery, Thriller",2.483333333
+398,Jurassic Park III,2001,Universal Pictures,0.261235955,0.142171693,0.193422848,0.08772986,5-Jul-01,"Action, Adventure, Sci-Fi, Thriller",1.533333333
+399,My Big Fat Greek Wedding,2002,IFC Films,0.014044944,0.001672744,0.257764434,0.05953087,19-Apr-02,"Comedy, Drama, Romance",1.583333333
+400,Shazam!,2019,Warner Bros.,0.280898876,0.149826596,0.149979411,0.106299099,3-Apr-19,"Action, Adventure, Comedy, Fantasy",2.2
+401,Hello Mr. Billionaire,2018,"July 27, 2018 (China)",0.280898876,0.119555477,0.391776136,0.171599059,3-Apr-19,"Action, Adventure, Comedy, Fantasy",2.2
+402,Die Hard with a Vengeance,1995,Twentieth Century Fox,0.252808989,0.062059125,0.106775416,0.124428857,19-May-95,"Action, Adventure, Thriller",2.133333333
+403,The Nun,2018,Warner Bros.,0.061797753,0.150672411,0.125425387,0.116017483,5-Sep-18,"Horror, Mystery, Thriller",1.6
+404,Alvin and the Chipmunks,2007,Twentieth Century Fox,0.168539326,0.124070443,0.232022781,0.069219852,12-Dec-07,"Adventure, Animation, Comedy, Family, Fantasy, Music, Musical",1.533333333
+405,Tenet,2020,Warner Bros.,0.273662689,0.026190694,0.062460195,0.143466094,12-Dec-07,"Adventure, Animation, Comedy, Family, Fantasy, Music, Musical",1.533333333
+406,Notting Hill,1999,Universal Pictures,0.117977528,0.061076067,0.123939746,0.11587646,28-May-99,"Comedy, Drama, Romance",2.066666667
+407,A Bugs Life,1998,Walt Disney Studios Motion Pictures,0.337078652,0.000815202,0.173807121,0.093739424,20-Nov-98,"Adventure, Animation, Comedy, Family",1.583333333
+408,Night at the Museum: Secret of the Tomb,2014,Twentieth Century Fox,0.356741573,0.04788519,0.12143825,0.116651782,17-Dec-14,"Adventure, Comedy, Family, Fantasy",1.633333333
+409,Oceans Twelve,2004,Warner Bros.,0.308988764,0.109638014,0.134033675,0.110919679,9-Dec-04,"Crime, Thriller",2.083333333
+410,Planet of the Apes,2001,Twentieth Century Fox,0.280898876,0.191907253,0.192184264,0.085200529,27-Jul-01,"Action, Adventure, Sci-Fi, Thriller",2
+411,The Hangover Part III,2013,Warner Bros.,0.289325843,0.116688454,0.119787122,0.116811702,23-May-13,"Comedy, Crime",1.666666667
+412,The World Is Not Enough,1999,Metro-Goldwyn-Mayer (MGM),0.379213483,0.099460976,0.135527707,0.109838874,19-Nov-99,"Action, Adventure, Thriller",2.133333333
+413,Monster Hunt 2,2018,Lionsgate,0.273662689,0.00095721,0.000753904,0.168800141,19-Nov-99,"Action, Adventure, Thriller",2.133333333
+414,Fast & Furious,2009,Universal Pictures,0.238764045,0.198676893,0.165549822,0.09600379,2-Apr-09,"Action, Crime, Thriller",1.783333333
+415,Noah,2014,Paramount Pictures,0.351123596,0.122426868,0.108043264,0.120646194,20-Mar-14,"Action, Adventure, Drama",2.3
+416,The Karate Kid,2010,Sony Pictures Entertainment (SPE),0.112359551,0.155876409,0.188532871,0.085356903,10-Jun-10,"Action, Drama, Family, Sport",2.333333333
+417,Home Alone 2: Lost in New York,1992,Twentieth Century Fox,0.273662689,0.087162067,0.185323494,0.086701281,10-Jun-10,"Action, Drama, Family, Sport",2.333333333
+418,Hotel Transylvania,2012,Sony Pictures Entertainment (SPE),0.238764045,0.119071428,0.158342083,0.098229642,20-Sep-12,"Adventure, Animation, Comedy, Family, Fantasy, Horror, Romance",1.516666667
+419,Minority Report,2002,Twentieth Century Fox,0.286516854,0.099903741,0.141003792,0.105822611,20-Jun-02,"Action, Crime, Mystery, Sci-Fi, Thriller",2.416666667
+420,Top Gun,1986,Paramount Pictures,0.273662689,0.022942335,0.192447366,0.082782929,20-Jun-02,"Action, Crime, Mystery, Sci-Fi, Thriller",2.416666667
+421,Spirited Away,2001,Walt Disney Studios Motion Pictures,0.273662689,0.001259647,0.016233947,0.159959866,20-Jun-02,"Action, Crime, Mystery, Sci-Fi, Thriller",2.416666667
+422,The Legend of Tarzan,2016,Warner Bros.,0.505617978,0.10788641,0.135206756,0.107579601,29-Jun-16,"Action, Adventure, Drama, Fantasy, Romance",1.833333333
+423,American Beauty,1999,DreamWorks Distribution,0.042134831,0.002412475,0.138893827,0.105775849,15-Sep-99,Drama,2.033333333
+424,Apollo 13,1995,Universal Pictures,0.273662689,0.070995,0.185592979,0.084675657,15-Sep-99,Drama,2.033333333
+425,Rain Man,1988,Metro-Goldwyn-Mayer (MGM),0.070224719,0.019617543,0.184512016,0.085107005,16-Dec-88,Drama,2.216666667
+426,The Great Gatsby,2013,Warner Bros.,0.29494382,0.140249455,0.154653398,0.097640112,10-May-13,"Drama, Romance",2.383333333
+427,Dumbo,2019,Walt Disney Studios Motion Pictures,0.47752809,0.128784137,0.122526887,0.11153615,27-Mar-19,"Adventure, Family, Fantasy",1.866666667
+428,"I, Robot",2004,Twentieth Century Fox,0.337078652,0.146115078,0.154592573,0.097420808,15-Jul-04,"Action, Mystery, Sci-Fi, Thriller",1.916666667
+429,Basic Instinct,1992,TriStar Pictures,0.137640449,0.042365582,0.125688024,0.109984437,20-Mar-92,"Drama, Mystery, Thriller",2.116666667
+430,Murder on the Orient Express,2017,Twentieth Century Fox,0.154494382,0.080314385,0.109779748,0.116890046,3-Nov-17,"Crime, Drama, Mystery",1.9
+431,X-Men: First Class,2011,Twentieth Century Fox,0.449438202,0.154296523,0.15630854,0.096427352,1-Jun-11,"Action, Sci-Fi",2.183333333
+432,The Angry Birds Movie,2016,Sony Pictures Entertainment (SPE),0.20505618,0.106842827,0.114779227,0.114485084,11-May-16,"Action, Adventure, Animation, Comedy, Family",1.616666667
+433,GoldenEye,1995,Metro-Goldwyn-Mayer (MGM),0.273662689,0.073379742,0.11362681,0.114924428,11-May-16,"Action, Adventure, Animation, Comedy, Family",1.616666667
+434,Catch Me If You Can,2002,DreamWorks Distribution,0.146067416,0.084156718,0.17574676,0.087678434,25-Dec-02,"Biography, Crime, Drama",2.35
+435,Now You See Me,2013,Lionsgate,0.210674157,0.082187498,0.12568457,0.109423292,29-May-13,"Crime, Mystery, Thriller",1.916666667
+436,Hannibal,2001,Metro-Goldwyn-Mayer (MGM),0.244382022,0.162421404,0.176255926,0.087258061,9-Feb-01,"Crime, Drama, Thriller",2.183333333
+437,The Mask,1994,New Line Cinema,0.064606742,0.064732838,0.128049073,0.108321894,29-Jul-94,"Action, Comedy, Crime, Fantasy",1.683333333
+438,Peter Rabbit,2018,Sony Pictures Entertainment (SPE),0.140449438,0.07003606,0.123046944,0.110471998,8-Feb-18,"Adventure, Comedy, Crime, Drama, Family, Fantasy",1.583333333
+439,Speed,1994,Twentieth Century Fox,0.084269663,0.0404805,0.129447032,0.107178711,10-Jun-94,"Action, Adventure, Thriller",1.933333333
+440,Dinosaur,2000,Walt Disney Studios Motion Pictures,0.358146067,0.108802067,0.147062686,0.099170564,19-May-00,"Adventure, Animation, Drama, Family, Fantasy",1.366666667
+441,Mary Poppins Returns,2018,Walt Disney Studios Motion Pictures,0.365168539,0.065869875,0.183586392,0.083043723,19-Dec-18,"Adventure, Comedy, Family, Fantasy, Musical",2.166666667
+442,Deep Impact,1998,Paramount Pictures,0.273662689,0.115235636,0.149962986,0.097732769,19-Dec-18,"Adventure, Comedy, Family, Fantasy, Musical",2.166666667
+443,The Lorax,2012,Universal Pictures,0.196629213,0.196623129,0.228869591,0.063039888,1-Mar-12,"Adventure, Animation, Comedy, Drama, Family, Fantasy, Musical",1.433333333
+444,The Maze Runner,2014,Twentieth Century Fox,0.095505618,0.091042951,0.109354108,0.114984239,11-Sep-14,"Action, Mystery, Sci-Fi, Thriller",1.883333333
+445,The Smurfs 2,2013,Sony Pictures Entertainment (SPE),0.29494382,0.049139321,0.075820058,0.129310075,31-Jul-13,"Adventure, Animation, Comedy, Family, Fantasy",1.75
+446,National Treasure,2004,Walt Disney Studios Motion Pictures,0.280898876,0.098406825,0.18470788,0.081601449,19-Nov-04,"Action, Adventure, Mystery, Thriller",2.183333333
+447,Rush Hour 2,2001,New Line Cinema,0.252808989,0.188757741,0.241457678,0.056657658,3-Aug-01,"Action, Comedy, Crime, Thriller",1.5
+448,Trolls,2016,Twentieth Century Fox,0.351123596,0.130437369,0.16444035,0.090324636,13-Oct-16,"Adventure, Animation, Comedy, Family, Fantasy, Music, Musical",1.533333333
+449,xXx: Return of Xander Cage,2017,Paramount Pictures,0.238764045,0.056368793,0.047934476,0.140856705,18-Jan-17,"Action, Adventure, Thriller",1.783333333
+450,Pocahontas,1995,Walt Disney Studios Motion Pictures,0.273662689,0.007531787,0.151153499,0.095628475,18-Jan-17,"Action, Adventure, Thriller",1.783333333
+451,How the Grinch Stole Christmas,2000,Universal Pictures,0.345505618,0.154242552,0.278344742,0.039798293,17-Nov-00,"Comedy, Family, Fantasy",1.733333333
+452,Star Trek Beyond,2016,Paramount Pictures,0.519662921,0.165921929,0.169589779,0.086333797,20-Jul-16,"Action, Adventure, Sci-Fi, Thriller",2.033333333
+453,Alvin and the Chipmunks: Chipwrecked,2011,Twentieth Century Fox,0.210674157,0.065090359,0.142111786,0.098006184,14-Dec-11,"Adventure, Animation, Comedy, Family, Fantasy, Music, Musical",1.45
+454,Wanted,2008,Universal Pictures,0.210674157,0.142606959,0.143604116,0.097243877,26-Jun-08,"Action, Crime, Thriller",1.833333333
+455,The Flintstones,1994,Universal Pictures,0.129213483,0.083134927,0.139357822,0.098714773,27-May-94,"Comedy, Family, Fantasy",1.516666667
+456,A Quiet Place,2018,Paramount Pictures,0.047752809,0.140580936,0.200738704,0.071512615,4-Apr-18,"Drama, Horror, Sci-Fi",1.5
+457,Enchanted,2007,Walt Disney Studios Motion Pictures,0.238764045,0.096440408,0.136449681,0.099453895,21-Nov-07,"Adventure, Animation, Comedy, Family, Fantasy, Musical, Romance",1.783333333
+458,Over the Hedge,2006,DreamWorks,0.273662689,0.107688006,0.16550186,0.086405378,21-Nov-07,"Adventure, Animation, Comedy, Family, Fantasy, Musical, Romance",1.783333333
+459,300: Rise of an Empire,2014,Warner Bros.,0.308988764,0.126117523,0.113787071,0.108020429,5-Mar-14,"Action, Drama, War",1.7
+460,Batman Forever,1995,Warner Bros.,0.280898876,0.147807939,0.196516013,0.071311268,16-Jun-95,"Action, Adventure",2.016666667
+461,Prince of Persia: The Sands of Time,2010,Walt Disney Studios Motion Pictures,0.561797753,0.084273297,0.096896911,0.1148505,16-Jul-09,"Action, Adventure, Fantasy",1.933333333
+462,The Curious Case of Benjamin Button,2008,Paramount Pictures,0.421348315,0.075196549,0.136131599,0.097402376,25-Dec-08,"Drama, Fantasy, Romance",2.766666667
+463,Journey 2: The Mysterious Island,2012,Warner Bros.,0.221910112,0.076544985,0.110912712,0.108207477,19-Jan-12,"Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",1.566666667
+464,The Rock,1996,Walt Disney Studios Motion Pictures,0.210674157,0.070200144,0.143135388,0.09398858,7-Jun-96,"Action, Adventure, Thriller",2.266666667
+465,The Great Wall,2016,Universal Pictures,0.421348315,0.051718969,0.048620334,0.135326217,16-Dec-16,"Action, Adventure, Fantasy, Thriller",1.716666667
+466,Now You See Me 2,2016,Lionsgate,0.273662689,0.062677696,0.069475995,0.126174439,16-Dec-16,"Action, Adventure, Fantasy, Thriller",1.716666667
+467,Never Say Die,2017,"September 29, 2017 (United Kingdom)",0.273662689,0.119555477,0.357152088,0.156433628,16-Dec-16,"Action, Adventure, Fantasy, Thriller",1.716666667
+468,Bridget Joness Diary,2001,Miramax,0.070224719,0.030057356,0.076381245,0.122857636,13-Apr-01,"Comedy, Drama, Romance",1.616666667
+469,Fantastic Four,2005,Twentieth Century Fox,0.280898876,0.156984453,0.16515674,0.083629254,6-Jul-05,"Action, Adventure, Fantasy, Sci-Fi",1.766666667
+470,Indiana Jones and the Temple of Doom,1984,Paramount Pictures,0.078651685,0.070949441,0.192033228,0.071656825,23-May-84,"Action, Adventure",1.966666667
+471,Tomorrow Never Dies,1997,Metro-Goldwyn-Mayer (MGM),0.273662689,0.07040591,0.133777441,0.097128038,23-May-84,"Action, Adventure",1.966666667
+472,Back to the Future Part II,1989,Universal Pictures,0.112359551,0.077944428,0.127046868,0.099837063,22-Nov-89,"Adventure, Comedy, Sci-Fi",1.8
+473,The Good Dinosaur,2015,Walt Disney Studios Motion Pictures,0.273662689,0.109643158,0.13141036,0.097789141,22-Nov-89,"Adventure, Comedy, Sci-Fi",1.8
+474,Free Guy,2021,20th Century Studios,0.273662689,0.079429359,0.129851076,0.098153628,22-Nov-89,"Adventure, Comedy, Sci-Fi",1.8
+475,22 Jump Street,2014,Sony Pictures Entertainment (SPE),0.140449438,0.159812508,0.204683537,0.065286677,5-Jun-14,"Action, Comedy, Crime",1.866666667
+476,Meet the Parents,2000,Universal Pictures,0.154494382,0.08015149,0.177485587,0.076783353,6-Oct-00,"Comedy, Romance",1.8
+477,Who Framed Roger Rabbit,1988,Walt Disney Studios Motion Pictures,0.196629213,0.031435921,0.167031792,0.081062826,24-Jun-88,"Adventure, Animation, Comedy, Crime, Family, Fantasy, Mystery",1.733333333
+478,Black Swan,2010,Fox Searchlight,0.036516854,0.00404298,0.11418703,0.104019169,3-Dec-10,"Drama, Thriller",1.8
+479,The Perfect Storm,2000,Warner Bros.,0.393258427,0.115719141,0.194967224,0.068319414,30-Jun-00,"Action, Adventure, Drama, Thriller",2.166666667
+480,John Wick: Chapter 3 - Parabellum,2019,Lionsgate,0.210674157,0.159102995,0.182579891,0.073572527,15-May-19,"Action, Crime, Thriller",2.166666667
+481,Crocodile Dundee,1986,Paramount Pictures,0.273662689,0.022510549,0.186623845,0.071733047,15-May-19,"Action, Crime, Thriller",2.166666667
+482,Crazy Alien,2019,"February 5, 2019 (China)",0.273662689,0.119555477,0.349751364,0.15319209,15-May-19,"Action, Crime, Thriller",2.166666667
+483,Se7en,1995,New Line Cinema,0.092696629,0.039062506,0.106896211,0.106247171,22-Sep-95,"Crime, Drama, Mystery, Thriller",2.116666667
+484,The Devil Wears Prada,2006,Twentieth Century Fox,0.098314607,0.077110296,0.1331755,0.094443362,30-Jun-06,"Comedy, Drama",1.816666667
+485,Taken 3,2014,Twentieth Century Fox,0.134831461,0.1097732,0.095292008,0.110930302,1-Jan-15,"Action, Crime, Thriller",1.8
+486,The Hunchback of Notre Dame,1996,Walt Disney Studios Motion Pictures,0.280898876,0.058909353,0.106910312,0.105308228,21-Jun-96,"Animation, Drama, Family, Musical, Romance",1.516666667
+487,A Christmas Carol,2009,Walt Disney Studios Motion Pictures,0.561797753,0.084149572,0.147177776,0.087646552,9-Sep-09,"Adventure, Animation, Comedy, Drama, Family, Fantasy",1.6
+488,The SpongeBob Movie: Sponge Out of Water,2015,Paramount Pictures,0.207865169,0.155034123,0.174015806,0.07584437,28-Jan-15,"Adventure, Animation, Comedy, Family, Fantasy",1.533333333
+489,Schindlers List,1993,Universal Pictures,0.061797753,0.001838724,0.103451186,0.10533742,15-Dec-93,"Biography, Drama, History",3.25
+490,Megamind,2010,DreamWorks,0.365168539,0.128857181,0.15845184,0.081118157,28-Oct-10,"Action, Animation, Comedy, Crime, Family, Mystery, Sci-Fi, Thriller",1.583333333
+491,The Conjuring 2,2016,Warner Bros.,0.112359551,0.113146502,0.109448355,0.10255778,8-Jun-16,"Horror, Mystery, Thriller",2.233333333
+492,Green Book,2018,Universal Pictures,0.064606742,0.000897271,0.090833354,0.110673002,16-Nov-18,"Biography, Comedy, Drama, Music",2.166666667
+493,Lethal Weapon 3,1992,Warner Bros.,0.098314607,0.0930879,0.154518377,0.0827689,15-May-92,"Action, Crime, Thriller",1.966666667
+494,Robin Hood,2010,Universal Pictures,0.561797753,0.100985353,0.112388145,0.101193169,12-May-10,"Action, Adventure, Drama, History",2.333333333
+495,Inglourious Basterds,2009,The Weinstein Company,0.196629213,0.106561403,0.128691769,0.093953002,19-Aug-09,"Adventure, Drama, War",2.55
+496,101 Dalmatians,1996,Walt Disney Studios Motion Pictures,0.273662689,0.093818586,0.145398512,0.086276057,19-Aug-09,"Adventure, Drama, War",2.55
+497,The Conjuring,2013,Warner Bros.,0.056179775,0.117204052,0.146740591,0.085555862,18-Jul-13,"Horror, Mystery, Thriller",1.866666667
+498,Fatal Attraction,1987,Paramount Pictures,0.273662689,0.021289332,0.167238188,0.076456018,18-Jul-13,"Horror, Mystery, Thriller",1.866666667
+499,Sonic the Hedgehog,2020,Paramount Pictures,0.238764045,0.162464043,0.159048439,0.079842069,12-Feb-20,"Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",1.65
+500,The Last Airbender,2010,Paramount Pictures,0.421348315,0.112918859,0.140682717,0.087885465,1-Jul-10,"Action, Adventure, Family, Fantasy",1.716666667
+501,The Proposal,2009,Walt Disney Studios Motion Pictures,0.112359551,0.094164617,0.175044991,0.071740996,17-Jun-09,"Comedy, Drama, Romance",1.8
+502,The Polar Express,2004,Warner Bros.,0.463483146,0.065310789,0.202344808,0.05956043,10-Nov-04,"Adventure, Animation, Comedy, Family, Fantasy, Musical",1.666666667
+503,A Beautiful Mind,2001,Universal Pictures,0.162921348,0.001028103,0.182288061,0.068295526,21-Dec-01,"Biography, Drama",2.25
+504,Beverly Hills Cop,1984,Paramount Pictures,0.273662689,0.042604776,0.250635151,0.038157866,21-Dec-01,"Biography, Drama",2.25
+505,Air Force One,1997,Sony Pictures Entertainment (SPE),0.238764045,0.103979122,0.184651846,0.066495693,25-Jul-97,"Action, Drama, Thriller",2.066666667
+506,Wonder,2017,Lionsgate,0.273662689,0.07714004,0.141377335,0.085389037,25-Jul-97,"Action, Drama, Thriller",2.066666667
+507,The Expendables 2,2012,Lionsgate,0.280898876,0.080062079,0.09077786,0.107528381,15-Aug-12,"Action, Adventure, Thriller",1.716666667
+508,Chicken Little,2005,Walt Disney Studios Motion Pictures,0.421348315,0.112148124,0.144541609,0.083725733,4-Nov-05,"Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",1.35
+509,As Good as It Gets,1997,Sony Pictures Entertainment (SPE),0.140449438,0.035302151,0.158518201,0.077484784,23-Dec-97,"Comedy, Drama, Romance",2.316666667
+510,Austin Powers: The Spy Who Shagged Me,1999,New Line Cinema,0.092696629,0.153781283,0.219972665,0.050344632,9-Jun-99,"Action, Adventure, Comedy, Crime",1.583333333
+511,Knives Out,2019,Lionsgate,0.112359551,0.07496058,0.176545215,0.068990303,21-Nov-19,"Comedy, Crime, Drama, Mystery, Thriller",2.166666667
+512,Maze Runner: The Scorch Trials,2015,Twentieth Century Fox,0.171348315,0.084892848,0.087221615,0.10783285,9-Sep-15,"Action, Adventure, Sci-Fi, Thriller",2.183333333
+513,Resident Evil: The Final Chapter,2016,Screen Gems,0.112359551,0.03808768,0.028644337,0.133464879,23-Dec-16,"Action, Horror, Sci-Fi",1.783333333
+514,The Lego Batman Movie,2017,Warner Bros.,0.224719101,0.148421284,0.187833636,0.063689967,2-Feb-17,"Action, Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",1.733333333
+515,Oceans Thirteen,2007,Warner Bros.,0.273662689,0.101181419,0.125076811,0.090792293,2-Feb-17,"Action, Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",1.733333333
+516,Little Fockers,2010,Universal Pictures,0.280898876,0.086340995,0.158476125,0.075853715,22-Dec-10,"Comedy, Romance",1.633333333
+517,Bolt,2008,Walt Disney Studios Motion Pictures,0.421348315,0.073430485,0.121765964,0.091619288,21-Nov-08,"Adventure, Animation, Comedy, Crime, Drama, Family, Sci-Fi",1.6
+518,Ransom,1996,Walt Disney Studios Motion Pictures,0.273662689,0.095812518,0.145722415,0.080898417,21-Nov-08,"Adventure, Animation, Comedy, Crime, Drama, Family, Sci-Fi",1.6
+519,Runaway Bride,1999,Paramount Pictures,0.196629213,0.098163212,0.162553272,0.073511308,30-Jul-99,"Comedy, Romance",1.933333333
+520,The Blind Side,2009,Warner Bros.,0.081460674,0.095541692,0.273292606,0.024900268,20-Nov-09,"Biography, Drama, Sport",2.15
+521,The Ex-File 3: Return of the Exes,2017,China Lion Film Distribution,0.273662689,0.000350842,0.00089569,0.143444334,20-Nov-09,"Biography, Drama, Sport",2.15
+522,The Fault in Our Stars,2014,Twentieth Century Fox,0.033707865,0.134417546,0.133316308,0.085244712,4-Jun-14,"Drama, Romance",2.1
+523,The Pursuit of Happyness,2006,Sony Pictures Entertainment (SPE),0.154494382,0.074322581,0.174626941,0.067132202,15-Dec-06,"Biography, Drama",1.95
+524,Rise of the Guardians,2012,DreamWorks,0.407303371,0.066570893,0.110405603,0.095174374,21-Nov-12,"Action, Adventure, Animation, Comedy, Drama, Family, Fantasy",1.616666667
+525,Close Encounters of the Third Kind,1977,Columbia Pictures,0.273662689,0.056004367,0.144330699,0.080290509,21-Nov-12,"Action, Adventure, Animation, Comedy, Drama, Family, Fantasy",1.616666667
+526,Chicago,2002,Miramax,0.126404494,0.005810254,0.182229531,0.063638161,26-Feb-02,"Comedy, Crime, Musical",1.883333333
+527,Annabelle: Creation,2017,Warner Bros.,0.042134831,0.098025575,0.108995749,0.095592788,3-Aug-17,"Horror, Mystery, Thriller",1.816666667
+528,Bridesmaids,2011,Universal Pictures,0.091292135,0.073498479,0.180541844,0.064220885,12-May-11,Comedy,2.083333333
+529,Skyscraper,2018,Universal Pictures,0.351123596,0.06973948,0.073046738,0.110568421,11-Jul-18,"Action, Adventure, Thriller",1.7
+530,A Good Day to Die Hard,2013,Twentieth Century Fox,0.258426966,0.069542989,0.071903399,0.110968771,6-Feb-13,"Action, Thriller",1.633333333
+531,Mulan,1998,Walt Disney Studios Motion Pictures,0.273662689,0.063691367,0.128776683,0.08590196,6-Feb-13,"Action, Thriller",1.633333333
+532,Dangal,2016,UTV Motion Pictures,0.273662689,0.009096456,0.013229701,0.136232875,6-Feb-13,"Action, Thriller",1.633333333
+533,Passengers,2016,Sony Pictures Entertainment (SPE),0.308988764,0.041638508,0.106777765,0.094987579,21-Dec-16,"Drama, Romance, Sci-Fi, Thriller",1.933333333
+534,Battleship,2012,Universal Pictures,0.587078652,0.071503086,0.06984655,0.111108064,11-Apr-12,"Action, Adventure, Sci-Fi, Thriller",2.183333333
+535,Liar Liar,1997,Universal Pictures,0.273662689,0.087991332,0.193677732,0.056722416,11-Apr-12,"Action, Adventure, Sci-Fi, Thriller",2.183333333
+536,G.I. Joe: The Rise of Cobra,2009,Paramount Pictures,0.491573034,0.153208476,0.160358232,0.071203475,5-Aug-09,"Action, Adventure, Sci-Fi, Thriller",1.966666667
+537,Wrath of the Titans,2012,Warner Bros.,0.421348315,0.093687432,0.089327914,0.102081644,28-Mar-12,"Action, Adventure, Fantasy",1.65
+538,Fantastic Four: Rise of the Silver Surfer,2007,Twentieth Century Fox,0.365168539,0.162557391,0.140842381,0.079491529,13-Jun-07,"Action, Adventure, Fantasy, Sci-Fi",1.533333333
+539,Hook,1991,TriStar Pictures,0.196629213,0.037866051,0.127745968,0.084732908,11-Dec-91,"Adventure, Comedy, Family, Fantasy",2.366666667
+540,Superman,1978,Warner Bros.,0.154494382,0.020904591,0.143571979,0.07762507,15-Dec-78,"Action, Adventure, Sci-Fi",2.383333333
+541,Rocky IV,1985,United Artists,0.273662689,0.055980669,0.136520629,0.080711368,15-Dec-78,"Action, Adventure, Sci-Fi",2.383333333
+542,Rambo: First Blood Part II,1985,TriStar Pictures,0.273662689,0.056497813,0.160586632,0.070136121,15-Dec-78,"Action, Adventure, Sci-Fi",2.383333333
+543,Resident Evil: Afterlife,2010,Screen Gems,0.168539326,0.074626559,0.064194503,0.112275554,9-Sep-10,"Action, Horror, Sci-Fi",1.6
+544,Van Helsing,2004,Universal Pictures,0.449438202,0.144905812,0.128303545,0.08416267,5-May-04,"Action, Adventure, Fantasy, Thriller",2.183333333
+545,Stuart Little,1999,Sony Pictures Entertainment (SPE),0.373595506,0.042054304,0.149504659,0.074866107,17-Dec-99,"Adventure, Comedy, Family, Fantasy",1.4
+546,Beverly Hills Cop II,1987,Paramount Pictures,0.273662689,0.073781708,0.164055977,0.068412938,17-Dec-99,"Adventure, Comedy, Family, Fantasy",1.4
+547,Alice Through the Looking Glass,2016,Walt Disney Studios Motion Pictures,0.47752809,0.075210298,0.082250975,0.104176313,25-May-16,"Adventure, Family, Fantasy, Mystery",1.883333333
+548,My Best Friends Wedding,1997,Sony Pictures Entertainment (SPE),0.106741573,0.060704189,0.135715977,0.080509625,20-Jun-97,"Comedy, Drama, Romance",1.75
+549,Real Steel,2011,Walt Disney Studios Motion Pictures,0.273662689,0.076501061,0.09124795,0.09997735,20-Jun-97,"Comedy, Drama, Romance",1.75
+550,Horton Hears a Who!,2008,Twentieth Century Fox,0.238764045,0.126046224,0.164978831,0.067357686,12-Mar-08,"Adventure, Animation, Comedy, Drama, Family, Fantasy, Music",1.433333333
+551,Oceans Eight,2018,Warner Bros.,0.196629213,0.116509744,0.149782624,0.073650293,7-Jun-18,"Action, Comedy, Crime",1.833333333
+552,A Quiet Place Part II,2020,Paramount Pictures,0.273662689,0.133142629,0.170896463,0.06420435,7-Jun-18,"Action, Comedy, Crime",1.833333333
+553,The Divergent Series: Insurgent,2015,Lionsgate,0.308988764,0.146349716,0.138981875,0.078010135,18-Mar-15,"Action, Adventure, Sci-Fi, Thriller",1.983333333
+554,Look Whos Talking,1989,TriStar Pictures,0.273662689,0.033904439,0.14956172,0.073374864,18-Mar-15,"Action, Adventure, Sci-Fi, Thriller",1.983333333
+555,Austin Powers in Goldmember,2002,New Line Cinema,0.176966292,0.204615282,0.227731922,0.039107563,26-Jul-02,"Action, Adventure, Comedy, Crime",1.566666667
+556,Ghostbusters,1984,Columbia Pictures,0.084269663,0.038021788,0.260049771,0.024783908,8-Jun-84,"Action, Comedy, Fantasy, Sci-Fi",1.75
+557,Miss Peregrines Home for Peculiar Children,2016,Twentieth Century Fox,0.308988764,0.080845496,0.093142257,0.097844817,28-Sep-16,"Adventure, Drama, Family, Fantasy, Thriller",2.116666667
+558,X-Men,2000,Twentieth Century Fox,0.210674157,0.152532025,0.167936438,0.065017922,13-Jul-00,"Action, Adventure, Sci-Fi",1.733333333
+559,Ferdinand,2017,Twentieth Century Fox,0.311797753,0.037527367,0.090118271,0.098976089,13-Dec-17,"Adventure, Animation, Comedy, Drama, Family",1.8
+560,Shutter Island,2010,Paramount Pictures,0.224719101,0.114983798,0.136669261,0.077995783,18-Feb-10,"Mystery, Thriller",2.3
+561,Doctor Dolittle,1998,Twentieth Century Fox,0.273662689,0.081246443,0.153904579,0.070283422,18-Feb-10,"Mystery, Thriller",2.3
+562,Bee Movie,2007,DreamWorks,0.421348315,0.106467226,0.135194175,0.078038007,1-Nov-07,"Adventure, Animation, Comedy, Drama, Family",1.516666667
+563,Salt,2010,Sony Pictures Entertainment (SPE),0.308988764,0.100839344,0.126311668,0.081923435,21-Jul-10,"Action, Thriller",1.666666667
+564,G-Force,2009,Walt Disney Studios Motion Pictures,0.421348315,0.088786339,0.127513171,0.08107664,23-Jul-09,"Action, Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",1.466666667
+565,The Departed,2006,Warner Bros.,0.252808989,0.075290779,0.141352336,0.074389628,5-Oct-06,"Crime, Drama, Thriller",2.516666667
+566,What Lies Beneath,2000,DreamWorks Distribution,0.280898876,0.083174771,0.165976963,0.063575868,21-Jul-00,"Drama, Horror, Mystery, Thriller",2.166666667
+567,Pacific Rim: Uprising,2018,Universal Pictures,0.421348315,0.078732438,0.063923284,0.10804644,21-Mar-18,"Action, Adventure, Fantasy, Horror, Sci-Fi, Thriller",1.85
+568,The Bourne Supremacy,2004,Universal Pictures,0.210674157,0.147072691,0.188159548,0.053586236,23-Jul-04,"Action, Mystery, Thriller",1.8
+569,Sex and the City 2,2010,Warner Bros.,0.280898876,0.086812006,0.101795172,0.091371892,27-May-10,"Comedy, Drama, Romance",2.433333333
+570,Shakespeare in Love,1998,Miramax,0.070224719,0.000627283,0.107101356,0.088380351,11-Dec-98,"Comedy, Drama, History, Romance",2.05
+571,Divergent,2014,Lionsgate,0.238764045,0.152913616,0.1611551,0.064502656,20-Mar-14,"Action, Adventure, Mystery, Sci-Fi",2.316666667
+572,Coming to America,1988,Paramount Pictures,0.273662689,0.05993705,0.136818052,0.075099917,20-Mar-14,"Action, Adventure, Mystery, Sci-Fi",2.316666667
+573,Elvis,2022,Warner Bros.,0.273662689,0.087399237,0.161253485,0.064358776,20-Mar-14,"Action, Adventure, Mystery, Sci-Fi",2.316666667
+574,Wedding Crashers,2005,New Line Cinema,0.112359551,0.090167031,0.22342463,0.037041058,14-Jul-05,"Comedy, Romance",1.983333333
+575,Maze Runner: The Death Cure,2018,Twentieth Century Fox,0.174157303,0.067672908,0.061956639,0.107619627,17-Jan-18,"Action, Adventure, Sci-Fi, Thriller",2.383333333
+576,Casper,1995,Universal Pictures,0.273662689,0.047156755,0.107112459,0.087725682,17-Jan-18,"Action, Adventure, Sci-Fi, Thriller",2.383333333
+577,American Pie 2,2001,Universal Pictures,0.084269663,0.12634021,0.154915605,0.066612598,10-Aug-01,Comedy,1.8
+578,Pitch Perfect 2,2015,Universal Pictures,0.081460674,0.193822406,0.196758474,0.048093804,7-May-15,"Comedy, Music",1.916666667
+579,The Green Mile,1999,Warner Bros.,0.168539326,0.05045196,0.146051982,0.070143136,10-Dec-99,"Crime, Drama, Fantasy, Mystery",3.15
+580,Oblivion,2013,Universal Pictures,0.337078652,0.103760649,0.09513273,0.092150001,10-Apr-13,"Action, Adventure, Sci-Fi",2.066666667
+581,Elysium,2013,TriStar Pictures,0.323033708,0.083467209,0.099342233,0.090293193,8-Aug-13,"Action, Drama, Sci-Fi, Thriller",1.816666667
+582,Lethal Weapon 4,1998,Warner Bros.,0.393258427,0.095342182,0.139265361,0.07248124,10-Jul-98,"Action, Crime, Thriller",2.116666667
+583,John Carter,2012,Walt Disney Studios Motion Pictures,0.702247191,0.084511117,0.078019694,0.098696536,7-Mar-12,"Action, Adventure, Sci-Fi",2.2
+584,Turbo,2013,Twentieth Century Fox,0.379213483,0.059680004,0.08864255,0.09331027,10-Jul-13,"Adventure, Animation, Comedy, Family, Sport",1.6
+585,Paddington,2014,Dimension Films,0.154494382,0.053110834,0.081429388,0.096408,27-Nov-14,"Adventure, Comedy, Family, Fantasy",1.583333333
+586,The Tourist,2010,Sony Pictures Entertainment (SPE),0.280898876,0.046126479,0.072204425,0.098737819,9-Dec-10,"Action, Thriller",1.716666667
+587,Split,2016,Universal Pictures,0.025280899,0.112039467,0.147642727,0.065543173,18-Jan-17,"Horror, Thriller",1.95
+588,Scary Movie,2000,Miramax,0.053370787,0.11857992,0.167637561,0.05658213,7-Jul-00,Comedy,1.466666667
+589,xXx,2002,Revolution Studios,0.196629213,0.124626807,0.151718921,0.063287346,9-Aug-02,"Action, Adventure, Thriller",2.066666667
+590,The Bourne Legacy,2012,Universal Pictures,0.351123596,0.106808239,0.120858797,0.076194562,8-Aug-12,"Action, Adventure, Thriller",2.25
+591,Mr. Peabody & Sherman,2014,Twentieth Century Fox,0.407303371,0.090186792,0.119046575,0.076779429,7-Feb-14,"Adventure, Animation, Comedy, Drama, Family, Fantasy, History, Sci-Fi",1.533333333
+592,Scooby-Doo,2002,Warner Bros.,0.235955056,0.151646699,0.163689823,0.057216476,14-Jun-02,"Adventure, Comedy, Family, Fantasy, Mystery",1.483333333
+593,Lincoln,2012,Walt Disney Studios Motion Pictures,0.18258427,0.002644269,0.194529008,0.043528715,9-Nov-12,"Biography, Drama, History, War",2.5
+594,Creed III,2023,United Artists Releasing,0.273662689,0.163448765,0.166814259,0.055646888,9-Nov-12,"Biography, Drama, History, War",2.5
+595,Lara Croft: Tomb Raider,2001,Paramount Pictures,0.323033708,0.133670504,0.140037749,0.067120093,15-Jun-01,"Action, Adventure, Fantasy, Thriller",1.666666667
+596,Tomb Raider,2018,Warner Bros.,0.264044944,0.066178448,0.062189764,0.101193164,7-Mar-18,"Action, Adventure, Fantasy, Thriller",1.983333333
+597,The Expendables,2010,Lionsgate,0.224719101,0.097517982,0.110038092,0.080151098,12-Aug-10,"Action, Adventure, Thriller",1.716666667
+598,Cloudy with a Chance of Meatballs 2,2013,Sony Pictures Entertainment (SPE),0.219101124,0.095257632,0.127894094,0.072262572,26-Sep-13,"Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",1.583333333
+599,The Nutty Professor,1996,Universal Pictures,0.151685393,0.071158379,0.137524516,0.067873772,28-Jun-96,"Comedy, Romance, Sci-Fi",1.583333333
+600,Jerry Maguire,1996,Sony Pictures Entertainment (SPE),0.140449438,0.047839759,0.164362977,0.05592746,13-Dec-96,"Comedy, Drama, Romance, Sport",2.316666667
+601,Bad Boys II,2003,Sony Pictures Entertainment (SPE),0.365168539,0.130273327,0.147981247,0.063003085,18-Jul-03,"Action, Comedy, Crime, Thriller",2.45
+602,Lilo & Stitch,2002,Walt Disney Studios Motion Pictures,0.224719101,0.098736293,0.155653056,0.059551435,21-Jun-02,"Adventure, Animation, Comedy, Drama, Family, Fantasy, Sci-Fi",1.416666667
+603,The Silence of the Lambs,1991,Orion Pictures,0.053370787,0.038550085,0.139583853,0.066402169,14-Feb-91,"Crime, Drama, Thriller",1.966666667
+604,Grown Ups,2010,Sony Pictures Entertainment (SPE),0.224719101,0.113427219,0.172955823,0.051183968,24-Jun-10,Comedy,1.7
+605,Neighbors,2014,Universal Pictures,0.050561798,0.137305669,0.160311152,0.056351936,8-May-14,Comedy,1.616666667
+606,The Firm,1993,Paramount Pictures,0.273662689,0.071125546,0.169055998,0.052326779,8-May-14,Comedy,1.616666667
+607,Were the Millers,2013,Warner Bros.,0.103932584,0.073980078,0.160563878,0.05592746,29-Aug-12,"Comedy, Crime",1.833333333
+608,Gran Torino,2008,Warner Bros.,0.092696629,0.000760875,0.158109613,0.056985652,12-Dec-08,Drama,1.933333333
+609,"10,000 BC",2008,Warner Bros.,0.29494382,0.100436799,0.101193577,0.081833658,5-Mar-08,"Action, Adventure, Drama, Fantasy, History",1.816666667
+610,American Gangster,2007,Universal Pictures,0.280898876,0.121991891,0.138966472,0.065275569,2-Nov-07,"Biography, Crime, Drama",2.616666667
+611,The Flash,2023,Warner Bros.,0.273662689,0.154134321,0.115445366,0.075006393,2-Nov-07,"Biography, Crime, Drama",2.616666667
+612,Epic,2013,Twentieth Century Fox,0.280898876,0.093894312,0.114789173,0.075243922,16-May-13,"Action, Adventure, Animation, Family, Fantasy, Mystery",1.7
+613,Exodus: Gods and Kings,2014,Twentieth Century Fox,0.393258427,0.067529881,0.069410841,0.095002386,4-Dec-14,"Action, Adventure, Drama, Fantasy",2.5
+614,Blade Runner 2049,2017,Warner Bros.,0.421348315,0.091715894,0.098297628,0.082160541,4-Oct-17,"Action, Drama, Mystery, Sci-Fi, Thriller",2.733333333
+615,Bambi,1942,RKO Radio Pictures,0.421348315,0.119555477,0.109161176,0.077250974,4-Oct-17,"Action, Drama, Mystery, Sci-Fi, Thriller",2.733333333
+616,The Princess and the Frog,2009,Walt Disney Studios Motion Pictures,0.29494382,0.002201504,0.111460563,0.076056139,25-Nov-09,"Adventure, Animation, Comedy, Family, Fantasy, Musical, Romance",1.616666667
+617,Batman Returns,1992,Warner Bros.,0.224719101,0.127935567,0.173941712,0.048628205,19-Jun-92,"Action, Crime, Fantasy",2.1
+618,Indecent Proposal,1993,Paramount Pictures,0.273662689,0.051489385,0.113823379,0.074819345,19-Jun-92,"Action, Crime, Fantasy",2.1
+619,Somethings Gotta Give,2003,Sony Pictures Entertainment (SPE),0.224719101,0.044984732,0.133162985,0.065747499,12-Dec-03,"Comedy, Drama, Romance",2.133333333
+620,Bridget Jones: The Edge of Reason,2004,Universal Pictures,0.112359551,0.02431725,0.042946341,0.10516827,11-Nov-04,"Comedy, Drama, Romance",1.8
+621,The Incredible Hulk,2008,Universal Pictures,0.421348315,0.15517144,0.143922654,0.060773922,11-Jun-08,"Action, Adventure, Sci-Fi",1.866666667
+622,Waterworld,1995,Universal Pictures,0.491573034,0.059285607,0.094213493,0.082288186,28-Jul-95,"Action, Adventure, Sci-Fi",2.25
+623,The Truman Show,1998,Paramount Pictures,0.273662689,0.088324826,0.134112594,0.064765734,28-Jul-95,"Action, Adventure, Sci-Fi",2.25
+624,Charlies Angels,2000,Sony Pictures Entertainment (SPE),0.261235955,0.112368703,0.133778796,0.064905782,3-Nov-00,"Action, Adventure, Comedy, Crime, Thriller",1.633333333
+625,The Fifth Element,1997,Sony Pictures Entertainment (SPE),0.273662689,0.047691485,0.068135747,0.093570943,3-Nov-00,"Action, Adventure, Comedy, Crime, Thriller",1.633333333
+626,Jumanji,1995,Sony Pictures Entertainment (SPE),0.18258427,0.031038656,0.107295818,0.075905161,15-Dec-95,"Adventure, Comedy, Family, Fantasy",1.733333333
+627,Parasite,2019,Neon,0.032022472,0.001101091,0.05697865,0.097878449,30-May-19,"Drama, Thriller",2.2
+628,Borat,2006,Twentieth Century Fox,0.050561798,0.074081073,0.137195624,0.062683149,23-Feb-06,Comedy,1.4
+629,Robots,2005,Twentieth Century Fox,0.210674157,0.100934714,0.136868989,0.062806855,10-Mar-05,"Adventure, Animation, Comedy, Family, Romance, Sci-Fi",1.516666667
+630,Knight and Day,2010,"$117,000,000 ",0.210674157,0.119555477,0.081590816,0.086774884,10-Mar-05,"Adventure, Animation, Comedy, Family, Romance, Sci-Fi",1.516666667
+631,Total Recall,1990,Sony Pictures Entertainment (SPE),0.18258427,0.071499936,0.127487709,0.066357745,1-Jun-90,"Action, Adventure, Sci-Fi",1.883333333
+632,This Is It,2009,Sony Pictures Entertainment (SPE),0.273662689,0.065061377,0.076965862,0.08842364,1-Jun-90,"Action, Adventure, Sci-Fi",1.883333333
+633,Terminator: Dark Fate,2019,Paramount Pictures,0.519662921,0.081301069,0.066462675,0.092993999,23-Oct-19,"Action, Adventure, Sci-Fi",2.133333333
+634,The Lone Ranger,2013,Walt Disney Studios Motion Pictures,0.603932584,0.081796756,0.095340788,0.080056699,3-Jul-13,"Action, Adventure, Western",2.5
+635,Super 8,2011,Paramount Pictures,0.140449438,0.099271012,0.135592293,0.062236511,9-Jun-11,"Action, Mystery, Sci-Fi, Thriller",1.866666667
+636,Halloween,2018,Universal Pictures,0.028089888,0.21343697,0.170116837,0.047041644,17-Oct-18,"Crime, Horror, Thriller",1.766666667
+637,Mojin: The Lost Legend,2015,Well Go USA Entertainment,0.103932584,0.000783988,0.001327917,0.120704477,17-Dec-15,"Action, Adventure, Drama, Fantasy, Horror, Mystery, Thriller",2.116666667
+638,Charlies Angels: Full Throttle,2003,Sony Pictures Entertainment (SPE),0.337078652,0.105384037,0.107648316,0.074045749,26-Jun-03,"Action, Adventure, Comedy, Crime",1.766666667
+639,Rush Hour 3,2007,New Line Cinema,0.393258427,0.14067457,0.149601387,0.055165778,8-Aug-07,"Action, Comedy, Crime, Thriller",1.516666667
+640,The Full Monty,1997,Fox Searchlight,0.009831461,0.000494477,0.049057302,0.099130267,15-Aug-97,"Comedy, Drama",1.516666667
+641,Kung Fu Yoga,2017,Well Go USA Entertainment,0.18258427,0.000313566,0.00038718,0.120361521,26-Jan-17,"Action, Adventure, Comedy, Family, Fantasy, Mystery",1.783333333
+642,Annabelle,2014,Warner Bros.,0.018258427,0.103984023,0.089983614,0.08104126,23-Sep-14,"Horror, Mystery, Thriller",1.65
+643,Encanto,2021,Walt Disney Studios Motion Pictures,0.273662689,0.076184124,0.102591542,0.075143462,23-Sep-14,"Horror, Mystery, Thriller",1.65
+644,The Village,2004,Walt Disney Studios Motion Pictures,0.168539326,0.142100279,0.121919639,0.066635979,13-Aug-03,"Drama, Mystery, Thriller",1.8
+645,Lost in Hong Kong,2015,Well Go USA Entertainment,0.273662689,0.001505778,0.001390342,0.119234741,13-Aug-03,"Drama, Mystery, Thriller",1.8
+646,Erin Brockovich,2000,Universal Pictures,0.146067416,0.078793846,0.134088043,0.061106867,17-Mar-00,"Biography, Drama",2.183333333
+647,Us,2019,Universal Pictures,0.056179775,0.199144879,0.186923926,0.037869142,20-Mar-19,"Horror, Mystery, Thriller",1.933333333
+648,Pegasus,2019,"January 31, 2019 (Australia)",0.056179775,0.119555477,0.27316476,0.11964694,20-Mar-19,"Horror, Mystery, Thriller",1.933333333
+649,Get Out,2017,"$4,500,000 ",0.056179775,0.119555477,0.188111211,0.037198538,20-Mar-19,"Horror, Mystery, Thriller",1.933333333
+650,Marley & Me,2008,Twentieth Century Fox,0.273662689,0.10180918,0.152833911,0.05264913,20-Mar-19,"Horror, Mystery, Thriller",1.933333333
+651,Cliffhanger,1993,TriStar Pictures,0.196629213,0.04529904,0.089732679,0.079940261,28-May-93,"Action, Adventure, Thriller",1.883333333
+652,Baahubali 2: The Conclusion,2017,Great India Films,0.273662689,0.029207669,0.021551695,0.109410073,28-May-93,"Action, Adventure, Thriller",1.883333333
+653,Babe,1995,Universal Pictures,0.273662689,0.024481035,0.067963571,0.08907056,28-May-93,"Action, Adventure, Thriller",1.883333333
+654,Men in Black: International,2019,Sony Pictures Entertainment (SPE),0.308988764,0.084106905,0.085411587,0.081314082,12-Jun-19,"Action, Adventure, Comedy, Sci-Fi",1.9
+655,Wild Hogs,2007,Walt Disney Studios Motion Pictures,0.273662689,0.111165933,0.179652329,0.039912322,12-Jun-19,"Action, Adventure, Comedy, Sci-Fi",1.9
+656,High School Musical 3: Senior Year,2008,Walt Disney Studios Motion Pictures,0.030898876,0.117693693,0.096683109,0.075918142,22-Oct-08,"Comedy, Drama, Family, Music, Musical, Romance",1.866666667
+657,Hercules,1997,Walt Disney Studios Motion Pictures,0.238764045,0.000698842,0.105814133,0.071826571,15-Jun-97,"Adventure, Animation, Comedy, Family, Fantasy, Musical, Romance",1.55
+658,Dark Phoenix,2019,Twentieth Century Fox,0.561797753,0.091926543,0.070298526,0.087256658,5-Jun-19,"Action, Adventure, Sci-Fi",1.883333333
+659,True Grit,2010,Paramount Pictures,0.106741573,0.069530662,0.18282258,0.037893156,22-Dec-10,"Drama, Western",1.833333333
+660,Dolittle,2020,Universal Pictures,0.491573034,0.061168096,0.082257043,0.081536049,8-Jan-20,"Adventure, Comedy, Family, Fantasy",1.683333333
+661,Bean,1997,Gramercy Pictures (I),0.050561798,0.006315145,0.048383955,0.096279987,17-Oct-97,"Adventure, Comedy, Family",1.483333333
+662,American Hustle,2013,Sony Pictures Entertainment (SPE),0.112359551,0.002073436,0.160268881,0.047254963,12-Dec-13,"Crime, Drama",2.3
+663,Enemy of the State,1998,Walt Disney Studios Motion Pictures,0.252808989,0.05611238,0.119092916,0.06513957,20-Nov-98,"Action, Thriller",2.2
+664,Youve Got Mail,1998,Warner Bros.,0.18258427,0.051598921,0.123653428,0.063128822,18-Dec-98,"Comedy, Drama, Romance",1.983333333
+665,Eragon,2006,Twentieth Century Fox,0.280898876,0.065076814,0.080103757,0.082018532,13-Dec-06,"Action, Adventure, Family, Fantasy",1.733333333
+666,Brother Bear,2003,Walt Disney Studios Motion Pictures,0.273662689,0.000817496,0.091106778,0.077186218,13-Dec-06,"Action, Adventure, Family, Fantasy",1.733333333
+667,The Godfather,1972,Paramount Pictures,0.016853933,0.000846766,0.145603259,0.053290426,15-Mar-72,"Crime, Drama",2.916666667
+668,The Mask of Zorro,1998,Sony Pictures Entertainment (SPE),0.266853933,0.063077313,0.10045833,0.073039112,17-Jul-98,"Action, Adventure, Comedy, Romance, Thriller, Western",2.266666667
+669,The Bad Guys,2022,Universal Pictures,0.273662689,0.067065916,0.103808638,0.071512633,17-Jul-98,"Action, Adventure, Comedy, Romance, Thriller, Western",2.266666667
+670,The Ring,2002,DreamWorks Distribution,0.134831461,0.042046379,0.13785987,0.056217759,18-Oct-02,"Horror, Mystery",1.916666667
+671,The Blair Witch Project,1999,Artisan Entertainment,0.000168539,0.004234081,0.150042454,0.05054982,16-Jul-99,"Horror, Mystery",1.35
+672,Unbreakable,2000,Walt Disney Studios Motion Pictures,0.210674157,0.084932782,0.101436074,0.071595932,22-Nov-00,"Drama, Mystery, Sci-Fi, Thriller",1.766666667
+673,Love Actually,2003,Universal Pictures,0.112359551,0.019282528,0.06373284,0.088023605,7-Nov-03,"Comedy, Drama, Romance",2.25
+674,Journey to the West: The Demons Strike Back,2017,Sony Pictures Entertainment (SPE),0.273662689,0.001298974,0.000939876,0.115364368,7-Nov-03,"Comedy, Drama, Romance",2.25
+675,Dumb and Dumber,1994,New Line Cinema,0.047752809,0.045821211,0.135791029,0.056161271,16-Dec-94,Comedy,1.783333333
+676,Glass,2019,Universal Pictures,0.056179775,0.112929782,0.118557645,0.063573329,16-Jan-19,"Drama, Horror, Sci-Fi, Thriller",2.15
+677,Grown Ups 2,2013,Sony Pictures Entertainment (SPE),0.224719101,0.116233066,0.142707287,0.052988815,11-Jul-13,Comedy,1.683333333
+678,The Peanuts Movie,2015,Twentieth Century Fox,0.278089888,0.123806259,0.138981169,0.054269605,29-Oct-15,"Adventure, Animation, Comedy, Drama, Family",1.466666667
+679,Rango,2011,Paramount Pictures,0.379213483,0.106630419,0.131827252,0.057165251,2-Mar-11,"Action, Adventure, Animation, Comedy, Family, Western",1.783333333
+680,Four Weddings and a Funeral,1994,Gramercy Pictures (I),0.012359551,0.000387791,0.0562645,0.090250835,11-Mar-94,"Comedy, Drama, Romance",1.95
+681,Face/Off,1997,Paramount Pictures,0.224719101,0.065490191,0.11986834,0.062380629,27-Jun-97,"Action, Crime, Sci-Fi, Thriller",2.3
+682,Teenage Mutant Ninja Turtles: Out of the Shadows,2016,Paramount Pictures,0.379213483,0.098893581,0.087599989,0.076489802,2-Jun-16,"Action, Adventure, Comedy, Sci-Fi",1.866666667
+683,Dark Shadows,2012,Warner Bros.,0.421348315,0.083125249,0.085118356,0.077531546,9-May-12,"Comedy, Family, Fantasy, Horror",1.883333333
+684,Hulk,2003,Universal Pictures,0.384831461,0.173973142,0.141115154,0.052891633,19-Jun-03,"Action, Sci-Fi",2.3
+685,The Bravest,2019,Sony Pictures Entertainment (SPE),0.273662689,0.000309074,0.000309842,0.114515377,19-Jun-03,"Action, Sci-Fi",2.3
+686,Welcome to the Sticks,2008,Columbia Pictures,0.273662689,0.119555477,0.261721259,0.114634654,19-Jun-03,"Action, Sci-Fi",2.3
+687,Back to the Future Part III,1990,Universal Pictures,0.112359551,0.053455174,0.094246977,0.073322958,25-May-90,"Adventure, Comedy, Sci-Fi, Western",1.966666667
+688,Pixels,2015,Sony Pictures Entertainment (SPE),0.247191011,0.067237768,0.084072553,0.077684563,16-Jul-15,"Action, Comedy, Fantasy, Sci-Fi",1.75
+689,Hercules,2014,Paramount Pictures,0.280898876,0.083447244,0.07760387,0.08049217,23-Jul-14,"Action, Adventure, Fantasy",1.633333333
+690,Rush Hour,1998,New Line Cinema,0.092696629,0.092412255,0.150734022,0.048414756,18-Sep-98,"Action, Comedy, Crime, Thriller",1.633333333
+691,Journey to the Center of the Earth,2008,Warner Bros.,0.168539326,0.058855384,0.108581693,0.066649221,10-Jul-08,"Action, Adventure, Family, Fantasy, Sci-Fi",1.55
+692,After Earth,2013,Sony Pictures Entertainment (SPE),0.365168539,0.077062121,0.064614645,0.085616658,30-May-13,"Action, Adventure, Sci-Fi",1.666666667
+693,A Few Good Men,1992,Columbia Pictures,0.115168539,0.043452299,0.150897703,0.04765057,11-Dec-92,"Drama, Thriller",2.3
+694,Cloudy with a Chance of Meatballs,2009,Sony Pictures Entertainment (SPE),0.280898876,0.084859632,0.133314093,0.055242794,16-Sep-09,"Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",1.5
+695,8 Mile,2002,Universal Pictures,0.115168539,0.143484743,0.124645681,0.058978302,8-Nov-02,"Drama, Music",1.833333333
+696,Daddys Home,2015,Paramount Pictures,0.273662689,0.108481028,0.160524395,0.043221733,8-Nov-02,"Drama, Music",1.833333333
+697,RoboCop,2014,Sony Pictures Entertainment (SPE),0.280898876,0.060712738,0.062570055,0.086080572,30-Jan-14,"Action, Crime, Sci-Fi, Thriller",1.95
+698,Eraser,1996,Warner Bros.,0.280898876,0.068791413,0.108145241,0.065934548,21-Jun-96,"Action, Crime, Thriller",1.916666667
+699,Alien: Covenant,2017,Twentieth Century Fox,0.27247191,0.101257635,0.079283683,0.077919546,9-May-17,"Horror, Sci-Fi, Thriller",2.033333333
+700,Sully,2016,Warner Bros.,0.168539326,0.098086892,0.133527359,0.05411664,8-Sep-16,"Biography, Drama",1.6
+701,Assassins Creed,2016,Twentieth Century Fox,0.351123596,0.028781274,0.058343282,0.087000826,21-Dec-16,"Action, Adventure, Sci-Fi",1.916666667
+702,Click,2006,Revolution Studios,0.231741573,0.112040559,0.14664372,0.048319125,22-Jun-06,"Comedy, Drama, Fantasy, Romance",1.783333333
+703,Legend of Deification,2020,Well Go USA Entertainment,0.231741573,0.119555477,0.000229186,0.112430882,22-Jun-06,"Comedy, Drama, Fantasy, Romance",1.783333333
+704,Planes,2013,Walt Disney Studios Motion Pictures,0.140449438,0.062255269,0.0963941,0.070088457,9-Aug-13,"Adventure, Animation, Comedy, Family, Sport",1.516666667
+705,Resident Evil: Retribution,2012,Screen Gems,0.18258427,0.058950833,0.045208966,0.092501833,12-Sep-12,"Action, Horror, Sci-Fi, Thriller",1.583333333
+706,Die Hard 2,1990,Twentieth Century Fox,0.196629213,0.060889799,0.125489151,0.057279038,6-Jul-90,"Action, Thriller",2.066666667
+707,Crocodile Dundee II,1988,Paramount Pictures,0.273662689,0.068501675,0.116697575,0.060931004,6-Jul-90,"Action, Thriller",2.066666667
+708,Bullet Train,2022,Sony Pictures Entertainment (SPE),0.273662689,0.084090994,0.110358461,0.063549681,6-Jul-90,"Action, Thriller",2.066666667
+709,Crazy Rich Asians,2018,Warner Bros.,0.084269663,0.074234181,0.186660087,0.029930673,15-Aug-18,"Comedy, Drama, Romance",2
+710,Batman & Robin,1997,Warner Bros.,0.351123596,0.120052656,0.114613133,0.061203125,20-Jun-97,"Action, Sci-Fi",2.083333333
+711,Howls Moving Castle,2004,Walt Disney Studios Motion Pictures,0.273662689,0.001198457,0.007248363,0.107902055,20-Jun-97,"Action, Sci-Fi",2.083333333
+712,Gullivers Travels,2010,Twentieth Century Fox,0.314606742,0.017662912,0.045672025,0.091000648,22-Dec-10,"Adventure, Comedy, Family, Fantasy",1.416666667
+713,Gone in 60 Seconds,2000,Walt Disney Studios Motion Pictures,0.252808989,0.070946467,0.108522121,0.063387757,9-Jun-00,"Action, Crime, Thriller",1.966666667
+714,Saturday Night Fever,1977,Paramount Pictures,0.273662689,0.010859524,0.100583947,0.066823027,9-Jun-00,"Action, Crime, Thriller",1.966666667
+715,Silver Linings Playbook,2012,The Weinstein Company,0.058988764,0.001240505,0.141025179,0.048781977,16-Nov-12,"Comedy, Drama, Romance",2.033333333
+716,2 Fast 2 Furious,2003,Universal Pictures,0.213483146,0.141333965,0.135753207,0.05106222,5-Jun-03,"Action, Crime, Thriller",1.783333333
+717,Hidden Figures,2016,Twentieth Century Fox,0.070224719,0.00144351,0.181076254,0.031026465,25-Dec-16,"Biography, Drama, History",2.116666667
+718,A.I. Artificial Intelligence,2001,Warner Bros.,0.280898876,0.082193774,0.083932806,0.073561381,29-Jun-01,"Drama, Sci-Fi",2.433333333
+719,Dead Poets Society,1989,Walt Disney Studios Motion Pictures,0.273662689,0.000953351,0.102342246,0.065466927,29-Jun-01,"Drama, Sci-Fi",2.433333333
+720,Spy,2015,Twentieth Century Fox,0.18258427,0.081446364,0.118319827,0.058378031,21-May-15,"Action, Comedy",2
+721,American Pie,1999,Universal Pictures,0.030898876,0.052391189,0.109496253,0.062157106,9-Jul-99,Comedy,1.583333333
+722,American Reunion,2012,Universal Pictures,0.140449438,0.060244122,0.060866681,0.083226263,4-Apr-12,Comedy,1.883333333
+723,Big Daddy,1999,Sony Pictures Entertainment (SPE),0.096067416,0.116310906,0.174534417,0.033351705,25-Jun-99,"Comedy, Drama",1.55
+724,Alvin and the Chipmunks: The Road Chip,2015,Twentieth Century Fox,0.273662689,0.040007165,0.091694727,0.0696342,25-Jun-99,"Comedy, Drama",1.55
+725,The Imitation Game,2014,The Weinstein Company,0.273662689,0.00134229,0.097287667,0.066603257,25-Jun-99,"Comedy, Drama",1.55
+726,Cruella,2021,Walt Disney Studios Motion Pictures,0.273662689,0.060196286,0.091925597,0.068927321,25-Jun-99,"Comedy, Drama",1.55
+727,The Day the Earth Stood Still,2008,Twentieth Century Fox,0.224719101,0.085351084,0.08473383,0.071885903,10-Dec-08,"Adventure, Drama, Sci-Fi, Thriller",1.733333333
+728,American Wedding,2003,Universal Pictures,0.154494382,0.093441719,0.111635882,0.059929276,1-Aug-03,Comedy,1.6
+729,The Girl with the Dragon Tattoo,2011,Sony Pictures Entertainment (SPE),0.252808989,0.035754879,0.109447985,0.060838245,21-Dec-11,"Crime, Drama, Mystery, Thriller",2.633333333
+730,Juno,2007,Fox Searchlight,0.021067416,0.001158924,0.153198518,0.041560938,5-Dec-07,"Comedy, Drama",1.6
+731,Argo,2012,Warner Bros.,0.125,0.054486954,0.145223646,0.045031893,11-Oct-12,"Biography, Drama, Thriller",2
+732,Mr. Beans Holiday,2007,Universal Pictures,0.273662689,0.027693544,0.035554084,0.0930209,11-Oct-12,"Biography, Drama, Thriller",2
+733,The English Patient,1996,Miramax,0.075842697,0.00077969,0.083996582,0.071686285,15-Nov-96,"Drama, Romance, War",2.7
+734,Sister Act,1992,Walt Disney Studios Motion Pictures,0.273662689,0.033307441,0.149045351,0.043021123,15-Nov-96,"Drama, Romance, War",2.7
+735,Annabelle Comes Home,2019,Warner Bros.,0.084269663,0.056759651,0.079166843,0.073463244,23-Jun-19,"Horror, Mystery, Thriller",1.766666667
+736,Constantine,2005,Warner Bros.,0.280898876,0.083359975,0.081113742,0.072438476,8-Feb-05,"Action, Fantasy, Horror, Mystery",2.016666667
+737,Get Smart,2008,Warner Bros.,0.224719101,0.108322191,0.139131487,0.046933354,19-Jun-08,"Action, Adventure, Comedy",1.833333333
+738,Space Jam,1996,Warner Bros.,0.273662689,0.077085892,0.096721059,0.065466927,19-Jun-08,"Action, Adventure, Comedy",1.833333333
+739,Life Is Beautiful,1997,Miramax,0.273662689,0.000333002,0.061455733,0.080681323,19-Jun-08,"Action, Adventure, Comedy",1.833333333
+740,The Heat,2013,Twentieth Century Fox,0.120786517,0.109530662,0.170373251,0.032896468,27-Jun-13,"Action, Comedy, Crime",1.95
+741,Ghostbusters,2016,Sony Pictures Entertainment (SPE),0.404494382,0.128862563,0.137029732,0.047134754,11-Jul-16,"Action, Comedy, Fantasy, Sci-Fi",1.95
+742,Ghost Rider,2007,Sony Pictures Entertainment (SPE),0.308988764,0.127098652,0.123633251,0.05281114,14-Feb-07,"Action, Fantasy, Thriller",1.833333333
+743,Goodbye Mr. Loser,2015,China Lion Film Distribution,0.273662689,0.001019137,0.001381102,0.106070124,14-Feb-07,"Action, Fantasy, Thriller",1.833333333
+744,Paddington 2,2017,Warner Bros.,0.273662689,0.030807893,0.043673949,0.087485818,14-Feb-07,"Action, Fantasy, Thriller",1.833333333
+745,Sleepless in Seattle,1993,TriStar Pictures,0.058988764,0.04831422,0.135383025,0.047285358,25-Jun-93,"Comedy, Drama, Romance",1.75
+746,Lethal Weapon 2,1989,Warner Bros.,0.273662689,0.057093092,0.157211407,0.037690245,25-Jun-93,"Comedy, Drama, Romance",1.75
+747,The Green Hornet,2011,Sony Pictures Entertainment (SPE),0.337078652,0.093882574,0.10545962,0.060340495,12-Jan-11,"Action, Comedy, Crime",1.983333333
+748,Out of Africa,1985,Universal Pictures,0.273662689,0.010185206,0.092959023,0.065674083,12-Jan-11,"Action, Comedy, Crime",1.983333333
+749,Elf,2003,New Line Cinema,0.092696629,0.089887009,0.190093307,0.023055084,7-Nov-03,"Adventure, Comedy, Family, Fantasy, Romance",1.616666667
+750,Youth,2017,China Lion Film Distribution,0.273662689,0.000948165,0.002019891,0.105307916,7-Nov-03,"Adventure, Comedy, Family, Fantasy, Romance",1.616666667
+751,Baby Driver,2017,TriStar Pictures,0.095505618,0.057553784,0.115117125,0.05570264,28-Jun-17,"Action, Crime, Drama, Music",1.883333333
+752,Immortals,2011,Relativity Media,0.210674157,0.090185023,0.089150619,0.067056838,10-Nov-11,"Action, Drama, Fantasy, Romance",1.833333333
+753,Taken,2008,Twentieth Century Fox,0.070224719,0.069213101,0.15480606,0.038268585,27-Feb-08,"Action, Crime, Thriller",1.5
+754,Percy Jackson & the Olympians: The Lightning Thief,2010,Twentieth Century Fox,0.266853933,0.087467808,0.09477088,0.064404916,10-Feb-10,"Adventure, Family, Fantasy",1.966666667
+755,Lightyear,2022,Walt Disney Studios Motion Pictures,0.273662689,0.141629335,0.126307205,0.050558346,10-Feb-10,"Adventure, Family, Fantasy",1.966666667
+756,Hansel & Gretel: Witch Hunters,2013,Paramount Pictures,0.140449438,0.055138977,0.059470184,0.079797765,17-Jan-13,"Action, Fantasy, Horror",1.466666667
+757,Valerian and the City of a Thousand Planets,2017,STX Entertainment,0.497752809,0.047625061,0.043974751,0.086408792,20-Jul-17,"Action, Adventure, Fantasy, Sci-Fi",2.266666667
+758,Good Will Hunting,1997,Miramax,0.273662689,0.000764213,0.147794404,0.040916829,20-Jul-17,"Action, Adventure, Fantasy, Sci-Fi",2.266666667
+759,Better Days,2019,Well Go USA Entertainment,0.273662689,0.002770917,0.002051601,0.104745746,20-Jul-17,"Action, Adventure, Fantasy, Sci-Fi",2.266666667
+760,Ford v Ferrari,2019,Twentieth Century Fox,0.274157303,0.088136755,0.125578201,0.050448745,13-Nov-19,"Action, Biography, Drama, Sport",2.533333333
+761,Jumper,2008,Twentieth Century Fox,0.238764045,0.076599436,0.085593425,0.067786319,13-Feb-08,"Action, Adventure, Sci-Fi, Thriller",1.466666667
+762,The Social Network,2010,Sony Pictures Entertainment (SPE),0.112359551,0.06285273,0.103519381,0.059835687,1-Oct-10,"Biography, Drama",2
+763,Chicken Run,2000,DreamWorks Distribution,0.126404494,0.049021076,0.114058794,0.055198157,23-Jun-00,"Adventure, Animation, Comedy, Drama, Family",1.4
+764,Con Air,1997,Walt Disney Studios Motion Pictures,0.210674157,0.067574136,0.107955216,0.057468113,6-Jun-97,"Action, Crime, Thriller",1.916666667
+765,Interview with the Vampire: The Vampire Chronicles,1994,Warner Bros.,0.168539326,0.10189912,0.112382677,0.055366315,11-Nov-94,"Drama, Fantasy, Horror",2.05
+766,Flightplan,2005,Walt Disney Studios Motion Pictures,0.273662689,0.068969205,0.095773371,0.062511563,11-Nov-94,"Drama, Fantasy, Horror",2.05
+767,Yes Man,2008,Warner Bros.,0.196629213,0.051138907,0.10429691,0.058710114,18-Dec-08,"Comedy, Romance",1.733333333
+768,Non-Stop,2014,Universal Pictures,0.140449438,0.080858083,0.098401107,0.061090463,19-Feb-14,"Action, Mystery, Thriller",1.766666667
+769,"Honey, I Shrunk the Kids",1989,Walt Disney Studios Motion Pictures,0.273662689,0.039939405,0.139563835,0.043021123,19-Feb-14,"Action, Mystery, Thriller",1.766666667
+770,Fahrenheit 9/11,2004,Lionsgate,0.016853933,0.066983007,0.127254807,0.048282846,23-Jun-04,"Documentary, Drama, War",2.033333333
+771,Wild Wild West,1999,Warner Bros.,0.47752809,0.077531001,0.121500236,0.050643344,30-Jun-99,"Action, Comedy, Sci-Fi, Western",1.766666667
+772,"My Country, My Parents",2021,CMC Pictures,0.273662689,0.000210862,0.000189111,0.103650022,30-Jun-99,"Action, Comedy, Sci-Fi, Western",1.766666667
+773,Geostorm,2017,Warner Bros.,0.337078652,0.038383646,0.035978989,0.087865968,12-Oct-17,"Action, Sci-Fi, Thriller",1.816666667
+774,Presumed Innocent,1990,Warner Bros.,0.273662689,0.032815706,0.092139072,0.063128822,12-Oct-17,"Action, Sci-Fi, Thriller",1.816666667
+775,Jungle Cruise,2021,Walt Disney Studios Motion Pictures,0.273662689,0.098060094,0.124898296,0.048586715,12-Oct-17,"Action, Sci-Fi, Thriller",1.816666667
+776,Scary Movie 3,2003,Dimension Films,0.134831461,0.139170853,0.117441714,0.051751606,24-Oct-03,Comedy,1.4
+777,Collateral,2004,DreamWorks Distribution,0.18258427,0.069169476,0.107835781,0.055756415,5-Aug-04,"Action, Crime, Drama, Thriller",2
+778,Inferno,2016,Sony Pictures Entertainment (SPE),0.210674157,0.041612435,0.036665911,0.086826767,12-Oct-16,"Action, Adventure, Crime, Drama, Mystery, Thriller",2.016666667
+779,Knocked Up,2007,Universal Pictures,0.084269663,0.085941474,0.158828778,0.033272864,1-Jun-07,"Comedy, Romance",2.15
+780,Green Lantern,2011,Warner Bros.,0.561797753,0.14889966,0.124485827,0.048281858,15-Jun-11,"Action, Adventure, Sci-Fi",1.9
+781,What Happens in Vegas,2008,Twentieth Century Fox,0.098314607,0.056487332,0.085706078,0.065045093,7-May-08,"Comedy, Romance",1.65
+782,Its Complicated,2009,Universal Pictures,0.238764045,0.061887122,0.120358622,0.049740031,23-Dec-09,"Comedy, Drama, Romance",2.016666667
+783,The Terminal,2004,DreamWorks Distribution,0.168539326,0.053353118,0.083138703,0.066040792,18-Jun-04,"Comedy, Drama, Romance",2.133333333
+784,Little Women,2019,Sony Pictures Entertainment (SPE),0.112359551,0.046918527,0.115411096,0.051785476,25-Dec-19,"Drama, Romance",2.25
+785,Captain Phillips,2013,Sony Pictures Entertainment (SPE),0.154494382,0.072016895,0.114343092,0.052229026,11-Oct-13,"Action, Biography, Crime, Drama, Thriller",2.233333333
+786,The Prince of Egypt,1998,DreamWorks Distribution,0.196629213,0.04067127,0.108270821,0.05480517,18-Dec-98,"Adventure, Animation, Drama, Family, Fantasy, Musical",1.65
+787,Jack Reacher,2012,Paramount Pictures,0.168539326,0.042591758,0.085485177,0.064657877,20-Dec-12,"Action, Mystery, Thriller",2.166666667
+788,Kingdom of Heaven,2005,Twentieth Century Fox,0.365168539,0.054985077,0.050603528,0.079834211,4-May-05,"Action, Adventure, Drama, History, War",2.4
+789,The Emoji Movie,2017,Sony Pictures Entertainment (SPE),0.140449438,0.068694741,0.091910948,0.061579656,27-Jul-17,"Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",1.433333333
+790,Smile,2022,Paramount Pictures,0.273662689,0.063312727,0.113098452,0.052127323,27-Jul-17,"Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",1.433333333
+791,Too Cool to Kill,2022,Well Go USA Entertainment,0.273662689,0.000202825,0.000198451,0.101505872,27-Jul-17,"Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",1.433333333
+792,Dracula Untold,2014,Universal Pictures,0.196629213,0.065846057,0.060086073,0.075213982,9-Sep-14,"Action, Drama, Fantasy, Horror",1.533333333
+793,Central Intelligence,2016,Warner Bros.,0.140449438,0.09950646,0.136058515,0.041866881,15-Jun-16,"Action, Comedy, Crime",1.783333333
+794,Million Dollar Baby,2004,Warner Bros.,0.084269663,0.000503908,0.107287558,0.054370957,15-Dec-04,"Drama, Sport",2.2
+795,The Help,2011,Walt Disney Studios Motion Pictures,0.070224719,0.072930539,0.181183897,0.021945917,10-Aug-11,Drama,2.433333333
+796,Twins,1988,Universal Pictures,0.042134831,0.031292384,0.119507743,0.048948686,9-Dec-88,"Comedy, Crime",1.783333333
+797,Valentines Day,2010,Warner Bros.,0.146067416,0.157542265,0.118002547,0.049567816,10-Feb-10,"Comedy, Romance",2.083333333
+798,Bad Teacher,2011,Sony Pictures Entertainment (SPE),0.056179775,0.088495598,0.107074731,0.054199431,17-Jun-11,"Comedy, Romance",1.533333333
+799,A Little Red Flower,2020,"December 31, 2020 (China)",0.056179775,0.119555477,0.230606076,0.101006116,17-Jun-11,"Comedy, Romance",1.533333333
+800,The Croods: A New Age,2020,Universal Pictures,0.273662689,0.027229883,0.06252928,0.07357407,17-Jun-11,"Comedy, Romance",1.533333333
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
